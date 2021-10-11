@@ -1,0 +1,7085 @@
+[{
+  "_id": {
+    "$oid": "60ceca5619aede5ad4fc588d"
+  },
+  "user_id": 1,
+  "firstName": "rohit",
+  "lastName": "himanshu",
+  "gender": "male",
+  "age": 21,
+  "education": "master",
+  "salary": 70000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "ahmedabad"
+},{
+  "_id": {
+    "$oid": "60ced2501ae3bf6edac5e659"
+  },
+  "user_id": 2,
+  "firstName": "rohit",
+  "lastName": "kiran",
+  "gender": "male",
+  "age": 22,
+  "education": "graduate",
+  "salary": 70000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "ahmedabad"
+},{
+  "_id": {
+    "$oid": "60ced2d0232579a95e0a46dd"
+  },
+  "user_id": 3,
+  "firstName": "rohit",
+  "lastName": "devtanbhai",
+  "gender": "male",
+  "age": 50,
+  "education": "graduate",
+  "salary": 90000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "ahmedabad"
+},{
+  "_id": {
+    "$oid": "60cf12ca967b8c2cbaa76b41"
+  },
+  "user_id": 4,
+  "firstName": "amit",
+  "lastName": "parmar",
+  "gender": "male",
+  "age": 35,
+  "education": "gaduate",
+  "salary": 23000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "mahudha"
+},{
+  "_id": {
+    "$oid": "60cf133365c1c8f6e0d2f8eb"
+  },
+  "user_id": 5,
+  "firstName": "kamlesh",
+  "lastName": "parmar",
+  "gender": "male",
+  "age": 32,
+  "education": "hsc",
+  "salary": 22000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "kathlal"
+},{
+  "_id": {
+    "$oid": "60cf1b95d4c00655f602998f"
+  },
+  "user_id": 6,
+  "firstName": "jyoti",
+  "lastName": "parmar",
+  "gender": "female",
+  "age": 32,
+  "education": "graduate",
+  "salary": 2100,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "ahmedabad"
+},{
+  "_id": {
+    "$oid": "60cf3014d6e5de7625183510"
+  },
+  "user_id": 7,
+  "firstName": "barjraj ",
+  "lastName": "Agraval ",
+  "gender": "male",
+  "age": 22,
+  "education": "graduate",
+  "salary": 21000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "ahmedabad"
+},{
+  "_id": {
+    "$oid": "60cf3014d6e5de7625183511"
+  },
+  "user_id": 8,
+  "firstName": "barjraj ",
+  "lastName": "Acharya ",
+  "gender": "male",
+  "age": 23,
+  "education": "graduate",
+  "salary": 22000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "ahmedabad"
+},{
+  "_id": {
+    "$oid": "60cf3082d6e5de7625183512"
+  },
+  "user_id": 9,
+  "firstName": "ramdin verma ",
+  "lastName": "Agarwal ",
+  "gender": "male",
+  "age": 24,
+  "education": "graduate",
+  "salary": 23000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "ahmedabad"
+},{
+  "_id": {
+    "$oid": "60cf3082d6e5de7625183513"
+  },
+  "user_id": 10,
+  "firstName": "ramdin verma ",
+  "lastName": "Agate ",
+  "gender": "male",
+  "age": 25,
+  "education": "graduate",
+  "salary": 24000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "ahmedabad"
+},{
+  "_id": {
+    "$oid": "60cf3082d6e5de7625183514"
+  },
+  "user_id": 11,
+  "firstName": "sharat chandran ",
+  "lastName": "Aggarwal ",
+  "gender": "male",
+  "age": 26,
+  "education": "graduate",
+  "salary": 25000,
+  "maritalstatus": "divorced",
+  "country": "india",
+  "city": "ahmedabad"
+},{
+  "_id": {
+    "$oid": "60cf3082d6e5de7625183515"
+  },
+  "user_id": 12,
+  "firstName": "sharat chandran ",
+  "lastName": "Agrawal ",
+  "gender": "male",
+  "age": 27,
+  "education": "graduate",
+  "salary": 26000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "ahmedabad"
+},{
+  "_id": {
+    "$oid": "60cf3082d6e5de7625183516"
+  },
+  "user_id": 13,
+  "firstName": "birender mandal ",
+  "lastName": "Ahluwalia ",
+  "gender": "male",
+  "age": 28,
+  "education": "graduate",
+  "salary": 27000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "ahmedabad"
+},{
+  "_id": {
+    "$oid": "60cf310cd6e5de7625183517"
+  },
+  "user_id": 14,
+  "firstName": "birender mandal ",
+  "lastName": "Ahuja ",
+  "gender": "male",
+  "age": 29,
+  "education": "graduate",
+  "salary": 28000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "ahmedabad"
+},{
+  "_id": {
+    "$oid": "60cf310cd6e5de7625183518"
+  },
+  "user_id": 15,
+  "firstName": "amit ",
+  "lastName": "Amble ",
+  "gender": "male",
+  "age": 24,
+  "education": "graduate",
+  "salary": 29000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60cf310cd6e5de7625183519"
+  },
+  "user_id": 16,
+  "firstName": "amit ",
+  "lastName": "Anand ",
+  "gender": "male",
+  "age": 25,
+  "education": "graduate",
+  "salary": 30000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60cf310cd6e5de762518351a"
+  },
+  "user_id": 17,
+  "firstName": "kushal ",
+  "lastName": "Andra ",
+  "gender": "male",
+  "age": 26,
+  "education": "graduate",
+  "salary": 31000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60cf310cd6e5de762518351b"
+  },
+  "user_id": 18,
+  "firstName": "kushal ",
+  "lastName": "Anne ",
+  "gender": "male",
+  "age": 27,
+  "education": "graduate",
+  "salary": 25000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60cf310cd6e5de762518351c"
+  },
+  "user_id": 19,
+  "firstName": "kasid ",
+  "lastName": "Apte ",
+  "gender": "male",
+  "age": 28,
+  "education": "graduate",
+  "salary": 26000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60cf310cd6e5de762518351d"
+  },
+  "user_id": 20,
+  "firstName": "kasid ",
+  "lastName": "Arora ",
+  "gender": "male",
+  "age": 21,
+  "education": "graduate",
+  "salary": 27000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60cf310cd6e5de762518351e"
+  },
+  "user_id": 21,
+  "firstName": "shiv prakash ",
+  "lastName": "Arya ",
+  "gender": "male",
+  "age": 30,
+  "education": "graduate",
+  "salary": 28000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60cf310cd6e5de762518351f"
+  },
+  "user_id": 22,
+  "firstName": "shiv prakash ",
+  "lastName": "Atwal ",
+  "gender": "male",
+  "age": 31,
+  "education": "graduate",
+  "salary": 29000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf310cd6e5de7625183520"
+  },
+  "user_id": 23,
+  "firstName": "vikram singh ",
+  "lastName": "Aurora ",
+  "gender": "male",
+  "age": 32,
+  "education": "master",
+  "salary": 30000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf310cd6e5de7625183521"
+  },
+  "user_id": 24,
+  "firstName": "vikram singh ",
+  "lastName": "Babu ",
+  "gender": "male",
+  "age": 33,
+  "education": "master",
+  "salary": 31000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf310cd6e5de7625183522"
+  },
+  "user_id": 25,
+  "firstName": "sanjay ",
+  "lastName": "Badal ",
+  "gender": "male",
+  "age": 50,
+  "education": "master",
+  "salary": 32000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf310cd6e5de7625183523"
+  },
+  "user_id": 26,
+  "firstName": "sanjay ",
+  "lastName": "Badami ",
+  "gender": "male",
+  "age": 51,
+  "education": "master",
+  "salary": 33000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf310cd6e5de7625183524"
+  },
+  "user_id": 27,
+  "firstName": "abhi ",
+  "lastName": "Bahl ",
+  "gender": "male",
+  "age": 52,
+  "education": "master",
+  "salary": 34000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf310cd6e5de7625183525"
+  },
+  "user_id": 28,
+  "firstName": "abhi ",
+  "lastName": "Bahri ",
+  "gender": "male",
+  "age": 53,
+  "education": "master",
+  "salary": 35000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf310cd6e5de7625183526"
+  },
+  "user_id": 29,
+  "firstName": "ram dutt gupta ",
+  "lastName": "Bail ",
+  "gender": "male",
+  "age": 54,
+  "education": "master",
+  "salary": 36000,
+  "maritalstatus": "unmarried",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60cf310cd6e5de7625183527"
+  },
+  "user_id": 30,
+  "firstName": "ram dutt gupta ",
+  "lastName": "Bains ",
+  "gender": "male",
+  "age": 55,
+  "education": "master",
+  "salary": 37000,
+  "maritalstatus": "unmarried",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183528"
+  },
+  "user_id": 31,
+  "firstName": "khadak singh ",
+  "lastName": "Bajaj ",
+  "gender": "male",
+  "age": 56,
+  "education": "primary",
+  "salary": 15000,
+  "maritalstatus": "unmarried",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183529"
+  },
+  "user_id": 32,
+  "firstName": "khadak singh ",
+  "lastName": "Bajwa ",
+  "gender": "male",
+  "age": 57,
+  "education": "phd",
+  "salary": 16000,
+  "maritalstatus": "unmarried",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de762518352a"
+  },
+  "user_id": 33,
+  "firstName": "gurmit singh ",
+  "lastName": "Bakshi ",
+  "gender": "male",
+  "age": 58,
+  "education": "phd",
+  "salary": 17000,
+  "maritalstatus": "unmarried",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de762518352b"
+  },
+  "user_id": 34,
+  "firstName": "gurmit singh ",
+  "lastName": "Bal ",
+  "gender": "male",
+  "age": 59,
+  "education": "phd",
+  "salary": 18000,
+  "maritalstatus": "unmarried",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de762518352c"
+  },
+  "user_id": 35,
+  "firstName": "chanderpal ",
+  "lastName": "Bala ",
+  "gender": "male",
+  "age": 60,
+  "education": "phd",
+  "salary": 19000,
+  "maritalstatus": "unmarried",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de762518352d"
+  },
+  "user_id": 36,
+  "firstName": "chanderpal ",
+  "lastName": "Bala ",
+  "gender": "male",
+  "age": 61,
+  "education": "phd",
+  "salary": 20000,
+  "maritalstatus": "married",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de762518352e"
+  },
+  "user_id": 37,
+  "firstName": "aman ",
+  "lastName": "Balakrishnan ",
+  "gender": "male",
+  "age": 62,
+  "education": "phd",
+  "salary": 21000,
+  "maritalstatus": "married",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de762518352f"
+  },
+  "user_id": 38,
+  "firstName": "aman ",
+  "lastName": "Balan ",
+  "gender": "male",
+  "age": 63,
+  "education": "phd",
+  "salary": 22000,
+  "maritalstatus": "married",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183530"
+  },
+  "user_id": 39,
+  "firstName": "khursid ",
+  "lastName": "Balasubramanian ",
+  "gender": "male",
+  "age": 64,
+  "education": "phd",
+  "salary": 23000,
+  "maritalstatus": "married",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183531"
+  },
+  "user_id": 40,
+  "firstName": "khursid ",
+  "lastName": "Balay ",
+  "gender": "male",
+  "age": 19,
+  "education": "phd",
+  "salary": 24000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183532"
+  },
+  "user_id": 41,
+  "firstName": "rajeev ",
+  "lastName": "Bali ",
+  "gender": "male",
+  "age": 20,
+  "education": "phd",
+  "salary": 25000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183533"
+  },
+  "user_id": 42,
+  "firstName": "rajeev ",
+  "lastName": "Bandi ",
+  "gender": "male",
+  "age": 21,
+  "education": "phd",
+  "salary": 26000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183534"
+  },
+  "user_id": 43,
+  "firstName": "durgesh ",
+  "lastName": "Banerjee ",
+  "gender": "male",
+  "age": 22,
+  "education": "phd",
+  "salary": 22000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183535"
+  },
+  "user_id": 44,
+  "firstName": "durgesh ",
+  "lastName": "Banik ",
+  "gender": "male",
+  "age": 23,
+  "education": "phd",
+  "salary": 23000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183536"
+  },
+  "user_id": 45,
+  "firstName": "nahar singh ",
+  "lastName": "Bansal ",
+  "gender": "male",
+  "age": 24,
+  "education": "phd",
+  "salary": 24000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183537"
+  },
+  "user_id": 46,
+  "firstName": "nahar singh ",
+  "lastName": "Barad ",
+  "gender": "male",
+  "age": 25,
+  "education": "phd",
+  "salary": 25000,
+  "maritalstatus": "married",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183538"
+  },
+  "user_id": 47,
+  "firstName": "ram kumar ",
+  "lastName": "Barad ",
+  "gender": "male",
+  "age": 26,
+  "education": "phd",
+  "salary": 26000,
+  "maritalstatus": "married",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183539"
+  },
+  "user_id": 48,
+  "firstName": "ram kumar ",
+  "lastName": "Baral ",
+  "gender": "male",
+  "age": 27,
+  "education": "phd",
+  "salary": 27000,
+  "maritalstatus": "married",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de762518353a"
+  },
+  "user_id": 49,
+  "firstName": "sunder paal ",
+  "lastName": "Baria ",
+  "gender": "male",
+  "age": 28,
+  "education": "phd",
+  "salary": 28000,
+  "maritalstatus": "married",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de762518353b"
+  },
+  "user_id": 50,
+  "firstName": "sunder paal ",
+  "lastName": "Barman ",
+  "gender": "male",
+  "age": 29,
+  "education": "phd",
+  "salary": 29000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de762518353c"
+  },
+  "user_id": 51,
+  "firstName": "maansingh aswal ",
+  "lastName": "Basak ",
+  "gender": "male",
+  "age": 30,
+  "education": "phd",
+  "salary": 30000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de762518353d"
+  },
+  "user_id": 52,
+  "firstName": "maansingh aswal ",
+  "lastName": "Bassi ",
+  "gender": "male",
+  "age": 31,
+  "education": "phd",
+  "salary": 31000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de762518353e"
+  },
+  "user_id": 53,
+  "firstName": "rohit ",
+  "lastName": "Basu ",
+  "gender": "male",
+  "age": 32,
+  "education": "phd",
+  "salary": 32000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de762518353f"
+  },
+  "user_id": 54,
+  "firstName": "rohit ",
+  "lastName": "Bath ",
+  "gender": "male",
+  "age": 33,
+  "education": "phd",
+  "salary": 33000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183540"
+  },
+  "user_id": 55,
+  "firstName": "rohit ",
+  "lastName": "Batra ",
+  "gender": "male",
+  "age": 34,
+  "education": "phd",
+  "salary": 34000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183541"
+  },
+  "user_id": 56,
+  "firstName": "rohit ",
+  "lastName": "Batta ",
+  "gender": "male",
+  "age": 35,
+  "education": "phd",
+  "salary": 35000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183542"
+  },
+  "user_id": 57,
+  "firstName": "sparsh ",
+  "lastName": "Bava ",
+  "gender": "male",
+  "age": 36,
+  "education": "phd",
+  "salary": 36000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183543"
+  },
+  "user_id": 58,
+  "firstName": "sparsh ",
+  "lastName": " ",
+  "gender": "male",
+  "age": 44,
+  "education": "primary",
+  "salary": 37000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183544"
+  },
+  "user_id": 59,
+  "firstName": "santosh ",
+  "lastName": "Bawa ",
+  "gender": "male",
+  "age": 45,
+  "education": "primary",
+  "salary": 38000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183545"
+  },
+  "user_id": 60,
+  "firstName": "santosh ",
+  "lastName": "Bedi ",
+  "gender": "male",
+  "age": 46,
+  "education": "primary",
+  "salary": 39000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183546"
+  },
+  "user_id": 61,
+  "firstName": "santosh ",
+  "lastName": "Behl ",
+  "gender": "male",
+  "age": 47,
+  "education": "primary",
+  "salary": 40000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "delhi"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183547"
+  },
+  "user_id": 62,
+  "firstName": "santosh ",
+  "lastName": "Ben ",
+  "gender": "male",
+  "age": 48,
+  "education": "primary",
+  "salary": 41000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "delhi"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183548"
+  },
+  "user_id": 63,
+  "firstName": "punit khandelwal ",
+  "lastName": "Bera ",
+  "gender": "male",
+  "age": 49,
+  "education": "primary",
+  "salary": 42000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "delhi"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183549"
+  },
+  "user_id": 64,
+  "firstName": "punit khandelwal ",
+  "lastName": "Bhagat ",
+  "gender": "male",
+  "age": 50,
+  "education": "primary",
+  "salary": 19000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "delhi"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de762518354a"
+  },
+  "user_id": 65,
+  "firstName": "dinesh ",
+  "lastName": "Bhakta ",
+  "gender": "male",
+  "age": 51,
+  "education": "primary",
+  "salary": 20000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "delhi"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de762518354b"
+  },
+  "user_id": 66,
+  "firstName": "dinesh ",
+  "lastName": "Bhalla ",
+  "gender": "male",
+  "age": 52,
+  "education": "primary",
+  "salary": 21000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "delhi"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de762518354c"
+  },
+  "user_id": 67,
+  "firstName": "gulshan ",
+  "lastName": "Bhandari ",
+  "gender": "male",
+  "age": 53,
+  "education": "primary",
+  "salary": 22000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "delhi"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de762518354d"
+  },
+  "user_id": 68,
+  "firstName": "gulshan ",
+  "lastName": "Bhardwaj ",
+  "gender": "male",
+  "age": 45,
+  "education": "primary",
+  "salary": 23000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "delhi"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de762518354e"
+  },
+  "user_id": 69,
+  "firstName": "arvind kumar yadav ",
+  "lastName": "Bhargava ",
+  "gender": "male",
+  "age": 45,
+  "education": "primary",
+  "salary": 24000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "delhi"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de762518354f"
+  },
+  "user_id": 70,
+  "firstName": "arvind kumar yadav ",
+  "lastName": "Bhasin ",
+  "gender": "male",
+  "age": 46,
+  "education": "primary",
+  "salary": 25000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "delhi"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183550"
+  },
+  "user_id": 71,
+  "firstName": "nausad ",
+  "lastName": "Bhat ",
+  "gender": "male",
+  "age": 47,
+  "education": "primary",
+  "salary": 26000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "delhi"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183551"
+  },
+  "user_id": 72,
+  "firstName": "nausad ",
+  "lastName": "Bhatia ",
+  "gender": "male",
+  "age": 48,
+  "education": "primary",
+  "salary": 27000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183552"
+  },
+  "user_id": 73,
+  "firstName": "gurmit singh ",
+  "lastName": "Bhatnagar ",
+  "gender": "male",
+  "age": 49,
+  "education": "phd",
+  "salary": 28000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183553"
+  },
+  "user_id": 74,
+  "firstName": "gurmit singh ",
+  "lastName": "Bhatt ",
+  "gender": "male",
+  "age": 45,
+  "education": "phd",
+  "salary": 29000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183554"
+  },
+  "user_id": 75,
+  "firstName": "md. afsar ",
+  "lastName": "Bhattacharyya ",
+  "gender": "male",
+  "age": 45,
+  "education": "phd",
+  "salary": 30000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183555"
+  },
+  "user_id": 76,
+  "firstName": "md. afsar ",
+  "lastName": "Bhatti ",
+  "gender": "male",
+  "age": 45,
+  "education": "phd",
+  "salary": 31000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183556"
+  },
+  "user_id": 77,
+  "firstName": "shiv shakti singh ",
+  "lastName": "Bhavsar ",
+  "gender": "male",
+  "age": 27,
+  "education": "phd",
+  "salary": 32000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183557"
+  },
+  "user_id": 78,
+  "firstName": "shiv shakti singh ",
+  "lastName": "Bir ",
+  "gender": "male",
+  "age": 28,
+  "education": "phd",
+  "salary": 33000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183558"
+  },
+  "user_id": 79,
+  "firstName": "moti lal ",
+  "lastName": "Biswas ",
+  "gender": "male",
+  "age": 29,
+  "education": "phd",
+  "salary": 34000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183559"
+  },
+  "user_id": 80,
+  "firstName": "moti lal ",
+  "lastName": "Boase ",
+  "gender": "male",
+  "age": 30,
+  "education": "phd",
+  "salary": 35000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de762518355a"
+  },
+  "user_id": 81,
+  "firstName": "kausal kumar ",
+  "lastName": "Bobal ",
+  "gender": "male",
+  "age": 31,
+  "education": "phd",
+  "salary": 36000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de762518355b"
+  },
+  "user_id": 82,
+  "firstName": "kausal kumar ",
+  "lastName": "Bora ",
+  "gender": "male",
+  "age": 32,
+  "education": "phd",
+  "salary": 37000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de762518355c"
+  },
+  "user_id": 83,
+  "firstName": "rohit ",
+  "lastName": "Bora ",
+  "gender": "male",
+  "age": 33,
+  "education": "phd",
+  "salary": 38000,
+  "maritalstatus": "married",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de762518355d"
+  },
+  "user_id": 84,
+  "firstName": "rohit ",
+  "lastName": "Borah ",
+  "gender": "male",
+  "age": 34,
+  "education": "phd",
+  "salary": 26000,
+  "maritalstatus": "married",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de762518355e"
+  },
+  "user_id": 85,
+  "firstName": "rohit ",
+  "lastName": "Borde ",
+  "gender": "male",
+  "age": 35,
+  "education": "phd",
+  "salary": 27000,
+  "maritalstatus": "married",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de762518355f"
+  },
+  "user_id": 86,
+  "firstName": "rohit ",
+  "lastName": "Borra ",
+  "gender": "male",
+  "age": 36,
+  "education": "phd",
+  "salary": 28000,
+  "maritalstatus": "married",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183560"
+  },
+  "user_id": 87,
+  "firstName": "mohabbat ali ",
+  "lastName": "Bose ",
+  "gender": "male",
+  "age": 37,
+  "education": "phd",
+  "salary": 29000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183561"
+  },
+  "user_id": 88,
+  "firstName": "mohabbat ali ",
+  "lastName": "Brahmbhatt ",
+  "gender": "male",
+  "age": 38,
+  "education": "phd",
+  "salary": 30000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183562"
+  },
+  "user_id": 89,
+  "firstName": "raj kumar ",
+  "lastName": "Brar ",
+  "gender": "male",
+  "age": 39,
+  "education": "secondary",
+  "salary": 31000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183563"
+  },
+  "user_id": 90,
+  "firstName": "raj kumar ",
+  "lastName": "Buch ",
+  "gender": "male",
+  "age": 40,
+  "education": "secondary",
+  "salary": 32000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183564"
+  },
+  "user_id": 91,
+  "firstName": "jaswant singh ",
+  "lastName": "Buch ",
+  "gender": "male",
+  "age": 41,
+  "education": "secondary",
+  "salary": 33000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "lusaka"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183565"
+  },
+  "user_id": 92,
+  "firstName": "jaswant singh ",
+  "lastName": "Bumb ",
+  "gender": "male",
+  "age": 42,
+  "education": "secondary",
+  "salary": 34000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "lusaka"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183566"
+  },
+  "user_id": 93,
+  "firstName": "sevak @ pitambar lal ",
+  "lastName": "Butala ",
+  "gender": "male",
+  "age": 43,
+  "education": "higher secondary",
+  "salary": 35000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "lusaka"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183567"
+  },
+  "user_id": 94,
+  "firstName": "sevak @ pitambar lal ",
+  "lastName": "Chacko ",
+  "gender": "male",
+  "age": 32,
+  "education": "higher secondary",
+  "salary": 36000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "lusaka"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183568"
+  },
+  "user_id": 95,
+  "firstName": "chotelal ",
+  "lastName": "Chad ",
+  "gender": "male",
+  "age": 33,
+  "education": "higher secondary",
+  "salary": 37000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "lusaka"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183569"
+  },
+  "user_id": 96,
+  "firstName": "chotelal ",
+  "lastName": "Chada ",
+  "gender": "male",
+  "age": 34,
+  "education": "higher secondary",
+  "salary": 38000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "lusaka"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de762518356a"
+  },
+  "user_id": 97,
+  "firstName": "amit ",
+  "lastName": "Chadha ",
+  "gender": "male",
+  "age": 35,
+  "education": "higher secondary",
+  "salary": 39000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "lusaka"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de762518356b"
+  },
+  "user_id": 98,
+  "firstName": "amit ",
+  "lastName": "Chahal ",
+  "gender": "male",
+  "age": 36,
+  "education": "higher secondary",
+  "salary": 40000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de762518356c"
+  },
+  "user_id": 99,
+  "firstName": "rupesh ",
+  "lastName": "Chakrabarti ",
+  "gender": "male",
+  "age": 37,
+  "education": "higher secondary",
+  "salary": 41000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de762518356d"
+  },
+  "user_id": 100,
+  "firstName": "rupesh ",
+  "lastName": "Chakraborty ",
+  "gender": "male",
+  "age": 38,
+  "education": "higher secondary",
+  "salary": 42000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de762518356e"
+  },
+  "user_id": 101,
+  "firstName": "midda ",
+  "lastName": "Chana ",
+  "gender": "male",
+  "age": 39,
+  "education": "master",
+  "salary": 43000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de762518356f"
+  },
+  "user_id": 102,
+  "firstName": "midda ",
+  "lastName": "Chand ",
+  "gender": "male",
+  "age": 40,
+  "education": "master",
+  "salary": 44000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183570"
+  },
+  "user_id": 103,
+  "firstName": "dharam singh ",
+  "lastName": "Chanda ",
+  "gender": "male",
+  "age": 41,
+  "education": "master",
+  "salary": 45000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183571"
+  },
+  "user_id": 104,
+  "firstName": "dharam singh ",
+  "lastName": "Chander ",
+  "gender": "male",
+  "age": 42,
+  "education": "master",
+  "salary": 46000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "mumbai"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183572"
+  },
+  "user_id": 105,
+  "firstName": "manoj yadav @ manoj ",
+  "lastName": "Chandra ",
+  "gender": "male",
+  "age": 43,
+  "education": "master",
+  "salary": 50000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "mumbai"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183573"
+  },
+  "user_id": 106,
+  "firstName": "manoj yadav @ manoj ",
+  "lastName": "Chandran ",
+  "gender": "male",
+  "age": 44,
+  "education": "master",
+  "salary": 51000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "mumbai"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183574"
+  },
+  "user_id": 107,
+  "firstName": "ram singh ",
+  "lastName": "Char ",
+  "gender": "male",
+  "age": 45,
+  "education": "master",
+  "salary": 52000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "mumbai"
+},{
+  "_id": {
+    "$oid": "60cf36ccd6e5de7625183575"
+  },
+  "user_id": 108,
+  "firstName": "ram singh ",
+  "lastName": "Chatterjee ",
+  "gender": "male",
+  "age": 46,
+  "education": "master",
+  "salary": 53000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "mumbai"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183576"
+  },
+  "user_id": 109,
+  "firstName": "kuldeep singh",
+  "lastName": "Chaudhari ",
+  "gender": "male",
+  "age": 22,
+  "education": "graduate",
+  "salary": 26000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "ahmedabad"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183577"
+  },
+  "user_id": 110,
+  "firstName": "santlal@golu",
+  "lastName": "Chaudhary ",
+  "gender": "male",
+  "age": 23,
+  "education": "graduate",
+  "salary": 27000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "ahmedabad"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183578"
+  },
+  "user_id": 111,
+  "firstName": "lalit rana",
+  "lastName": "Chaudhry ",
+  "gender": "male",
+  "age": 24,
+  "education": "graduate",
+  "salary": 28000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "ahmedabad"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183579"
+  },
+  "user_id": 112,
+  "firstName": "pulkit sharma",
+  "lastName": "Chaudhuri ",
+  "gender": "male",
+  "age": 25,
+  "education": "graduate",
+  "salary": 29000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "ahmedabad"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de762518357a"
+  },
+  "user_id": 113,
+  "firstName": "aman soni @ badal",
+  "lastName": "Chaudry ",
+  "gender": "male",
+  "age": 26,
+  "education": "graduate",
+  "salary": 30000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "ahmedabad"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de762518357b"
+  },
+  "user_id": 114,
+  "firstName": "jahoor ahmed meer",
+  "lastName": "Chauhan ",
+  "gender": "male",
+  "age": 27,
+  "education": "graduate",
+  "salary": 31000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "ahmedabad"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de762518357c"
+  },
+  "user_id": 115,
+  "firstName": "sumit",
+  "lastName": "Chawla ",
+  "gender": "male",
+  "age": 28,
+  "education": "graduate",
+  "salary": 25000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "ahmedabad"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de762518357d"
+  },
+  "user_id": 116,
+  "firstName": "tammanne",
+  "lastName": "Cheema ",
+  "gender": "male",
+  "age": 29,
+  "education": "graduate",
+  "salary": 26000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "ahmedabad"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de762518357e"
+  },
+  "user_id": 117,
+  "firstName": "kailash kumar",
+  "lastName": "Cherian ",
+  "gender": "male",
+  "age": 24,
+  "education": "graduate",
+  "salary": 27000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de762518357f"
+  },
+  "user_id": 118,
+  "firstName": "bhagwati prasad",
+  "lastName": "Chhabra ",
+  "gender": "male",
+  "age": 25,
+  "education": "graduate",
+  "salary": 28000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183580"
+  },
+  "user_id": 119,
+  "firstName": "ajay",
+  "lastName": "Chokshi ",
+  "gender": "male",
+  "age": 26,
+  "education": "graduate",
+  "salary": 29000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183581"
+  },
+  "user_id": 120,
+  "firstName": "silender",
+  "lastName": "Chopra ",
+  "gender": "male",
+  "age": 27,
+  "education": "graduate",
+  "salary": 30000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183582"
+  },
+  "user_id": 121,
+  "firstName": "deepak",
+  "lastName": "Choudhary ",
+  "gender": "male",
+  "age": 28,
+  "education": "graduate",
+  "salary": 31000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183583"
+  },
+  "user_id": 122,
+  "firstName": "akhilesh",
+  "lastName": "Choudhry ",
+  "gender": "male",
+  "age": 29,
+  "education": "graduate",
+  "salary": 32000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183584"
+  },
+  "user_id": 123,
+  "firstName": "dipendra kumar",
+  "lastName": "Choudhury ",
+  "gender": "male",
+  "age": 30,
+  "education": "graduate",
+  "salary": 33000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183585"
+  },
+  "user_id": 124,
+  "firstName": "nitin",
+  "lastName": "Chowdhury ",
+  "gender": "male",
+  "age": 31,
+  "education": "graduate",
+  "salary": 34000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183586"
+  },
+  "user_id": 125,
+  "firstName": "doodhnath pandit",
+  "lastName": "Comar ",
+  "gender": "male",
+  "age": 32,
+  "education": "master",
+  "salary": 35000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183587"
+  },
+  "user_id": 126,
+  "firstName": "aslam allam",
+  "lastName": "Contractor ",
+  "gender": "male",
+  "age": 33,
+  "education": "master",
+  "salary": 36000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183588"
+  },
+  "user_id": 127,
+  "firstName": "rahul",
+  "lastName": "D’Alia ",
+  "gender": "male",
+  "age": 50,
+  "education": "master",
+  "salary": 37000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183589"
+  },
+  "user_id": 128,
+  "firstName": "jitender kumar",
+  "lastName": "Dada ",
+  "gender": "male",
+  "age": 51,
+  "education": "master",
+  "salary": 15000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de762518358a"
+  },
+  "user_id": 129,
+  "firstName": "adnan",
+  "lastName": "Dalal ",
+  "gender": "male",
+  "age": 52,
+  "education": "master",
+  "salary": 16000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de762518358b"
+  },
+  "user_id": 130,
+  "firstName": "vijay",
+  "lastName": "Dani ",
+  "gender": "male",
+  "age": 53,
+  "education": "master",
+  "salary": 17000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de762518358c"
+  },
+  "user_id": 131,
+  "firstName": "yogesh",
+  "lastName": "Dar ",
+  "gender": "male",
+  "age": 54,
+  "education": "master",
+  "salary": 18000,
+  "maritalstatus": "unmarried",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de762518358d"
+  },
+  "user_id": 132,
+  "firstName": "kabir",
+  "lastName": "Dara ",
+  "gender": "male",
+  "age": 55,
+  "education": "master",
+  "salary": 19000,
+  "maritalstatus": "unmarried",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de762518358e"
+  },
+  "user_id": 133,
+  "firstName": "sarvesh",
+  "lastName": "Dara ",
+  "gender": "male",
+  "age": 56,
+  "education": "primary",
+  "salary": 20000,
+  "maritalstatus": "unmarried",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de762518358f"
+  },
+  "user_id": 134,
+  "firstName": "rakesh sarkar",
+  "lastName": "Das ",
+  "gender": "male",
+  "age": 57,
+  "education": "phd",
+  "salary": 21000,
+  "maritalstatus": "unmarried",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183590"
+  },
+  "user_id": 135,
+  "firstName": "akash gupta",
+  "lastName": "Dasgupta ",
+  "gender": "male",
+  "age": 58,
+  "education": "phd",
+  "salary": 22000,
+  "maritalstatus": "unmarried",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183591"
+  },
+  "user_id": 136,
+  "firstName": "rahul",
+  "lastName": "Dash ",
+  "gender": "male",
+  "age": 59,
+  "education": "phd",
+  "salary": 23000,
+  "maritalstatus": "unmarried",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183592"
+  },
+  "user_id": 137,
+  "firstName": "pintu thakur",
+  "lastName": "Dass ",
+  "gender": "male",
+  "age": 60,
+  "education": "phd",
+  "salary": 24000,
+  "maritalstatus": "married",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183593"
+  },
+  "user_id": 138,
+  "firstName": "vivek",
+  "lastName": "Date ",
+  "gender": "male",
+  "age": 61,
+  "education": "phd",
+  "salary": 26000,
+  "maritalstatus": "married",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183594"
+  },
+  "user_id": 139,
+  "firstName": "mohd khairul",
+  "lastName": "Datta ",
+  "gender": "male",
+  "age": 62,
+  "education": "phd",
+  "salary": 27000,
+  "maritalstatus": "married",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183595"
+  },
+  "user_id": 140,
+  "firstName": "farmaan khan",
+  "lastName": "Dave ",
+  "gender": "male",
+  "age": 63,
+  "education": "phd",
+  "salary": 28000,
+  "maritalstatus": "married",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183596"
+  },
+  "user_id": 141,
+  "firstName": "vansu dev",
+  "lastName": "Dayal ",
+  "gender": "male",
+  "age": 64,
+  "education": "phd",
+  "salary": 29000,
+  "maritalstatus": "married",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183597"
+  },
+  "user_id": 142,
+  "firstName": "vansu dev",
+  "lastName": "De ",
+  "gender": "male",
+  "age": 19,
+  "education": "phd",
+  "salary": 30000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183598"
+  },
+  "user_id": 143,
+  "firstName": "shyam kumar",
+  "lastName": "Deep ",
+  "gender": "male",
+  "age": 20,
+  "education": "phd",
+  "salary": 31000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183599"
+  },
+  "user_id": 144,
+  "firstName": "shafibul",
+  "lastName": "Deo ",
+  "gender": "male",
+  "age": 21,
+  "education": "phd",
+  "salary": 25000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de762518359a"
+  },
+  "user_id": 145,
+  "firstName": "lalit kathuriya",
+  "lastName": "Deol ",
+  "gender": "male",
+  "age": 22,
+  "education": "phd",
+  "salary": 26000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de762518359b"
+  },
+  "user_id": 146,
+  "firstName": "pooran chand",
+  "lastName": "Desai ",
+  "gender": "male",
+  "age": 23,
+  "education": "phd",
+  "salary": 27000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de762518359c"
+  },
+  "user_id": 147,
+  "firstName": "aamir hussain",
+  "lastName": "Deshmukh ",
+  "gender": "male",
+  "age": 24,
+  "education": "phd",
+  "salary": 28000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de762518359d"
+  },
+  "user_id": 148,
+  "firstName": "kamal jit singh",
+  "lastName": "Deshpande ",
+  "gender": "male",
+  "age": 25,
+  "education": "phd",
+  "salary": 29000,
+  "maritalstatus": "married",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de762518359e"
+  },
+  "user_id": 149,
+  "firstName": "shiv kumar",
+  "lastName": "Devan ",
+  "gender": "male",
+  "age": 26,
+  "education": "phd",
+  "salary": 30000,
+  "maritalstatus": "married",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de762518359f"
+  },
+  "user_id": 150,
+  "firstName": "mayank chaudhary @ rahul",
+  "lastName": "Devi ",
+  "gender": "male",
+  "age": 27,
+  "education": "phd",
+  "salary": 31000,
+  "maritalstatus": "married",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835a0"
+  },
+  "user_id": 151,
+  "firstName": "rohit",
+  "lastName": "Dewan ",
+  "gender": "male",
+  "age": 28,
+  "education": "phd",
+  "salary": 32000,
+  "maritalstatus": "married",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835a1"
+  },
+  "user_id": 152,
+  "firstName": "som dutt",
+  "lastName": "Dey ",
+  "gender": "male",
+  "age": 29,
+  "education": "phd",
+  "salary": 33000,
+  "maritalstatus": "married",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835a2"
+  },
+  "user_id": 153,
+  "firstName": "bablu regar",
+  "lastName": "Dhaliwal ",
+  "gender": "male",
+  "age": 30,
+  "education": "phd",
+  "salary": 34000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835a3"
+  },
+  "user_id": 154,
+  "firstName": "rohit",
+  "lastName": "Dhar ",
+  "gender": "male",
+  "age": 31,
+  "education": "phd",
+  "salary": 35000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835a4"
+  },
+  "user_id": 155,
+  "firstName": "rajkumar",
+  "lastName": "Dhar ",
+  "gender": "male",
+  "age": 32,
+  "education": "phd",
+  "salary": 36000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835a5"
+  },
+  "user_id": 156,
+  "firstName": "mubarik",
+  "lastName": "Dhawan ",
+  "gender": "male",
+  "age": 33,
+  "education": "phd",
+  "salary": 37000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835a6"
+  },
+  "user_id": 157,
+  "firstName": "niraj",
+  "lastName": "Dhillon ",
+  "gender": "male",
+  "age": 34,
+  "education": "phd",
+  "salary": 15000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835a7"
+  },
+  "user_id": 158,
+  "firstName": "sarbjeet @ ronak",
+  "lastName": "Dhingra ",
+  "gender": "male",
+  "age": 35,
+  "education": "phd",
+  "salary": 16000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835a8"
+  },
+  "user_id": 159,
+  "firstName": "axat",
+  "lastName": " ",
+  "gender": "male",
+  "age": 36,
+  "education": "phd",
+  "salary": 17000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835a9"
+  },
+  "user_id": 160,
+  "firstName": "amit",
+  "lastName": "Din ",
+  "gender": "male",
+  "age": 44,
+  "education": "primary",
+  "salary": 18000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835aa"
+  },
+  "user_id": 161,
+  "firstName": "anubhav shrivastab",
+  "lastName": "Divan ",
+  "gender": "male",
+  "age": 45,
+  "education": "primary",
+  "salary": 19000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835ab"
+  },
+  "user_id": 162,
+  "firstName": "akkash",
+  "lastName": "Dixit ",
+  "gender": "male",
+  "age": 46,
+  "education": "primary",
+  "salary": 20000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835ac"
+  },
+  "user_id": 163,
+  "firstName": "himanshu",
+  "lastName": "Doctor ",
+  "gender": "male",
+  "age": 47,
+  "education": "primary",
+  "salary": 21000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "banglore"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835ad"
+  },
+  "user_id": 164,
+  "firstName": "harsh dagar",
+  "lastName": "Dora ",
+  "gender": "male",
+  "age": 48,
+  "education": "primary",
+  "salary": 22000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "banglore"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835ae"
+  },
+  "user_id": 165,
+  "firstName": "anil kumar",
+  "lastName": "Doshi ",
+  "gender": "male",
+  "age": 49,
+  "education": "primary",
+  "salary": 23000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "banglore"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835af"
+  },
+  "user_id": 166,
+  "firstName": "vijay virmani",
+  "lastName": "Dua ",
+  "gender": "male",
+  "age": 50,
+  "education": "primary",
+  "salary": 24000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "banglore"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835b0"
+  },
+  "user_id": 167,
+  "firstName": "vivek auhari",
+  "lastName": "Dube ",
+  "gender": "male",
+  "age": 51,
+  "education": "primary",
+  "salary": 26000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "banglore"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835b1"
+  },
+  "user_id": 168,
+  "firstName": "sachin",
+  "lastName": "Dubey ",
+  "gender": "male",
+  "age": 52,
+  "education": "primary",
+  "salary": 27000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "banglore"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835b2"
+  },
+  "user_id": 169,
+  "firstName": "subhash chand bhatia",
+  "lastName": "Dugal ",
+  "gender": "male",
+  "age": 53,
+  "education": "primary",
+  "salary": 28000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "banglore"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835b3"
+  },
+  "user_id": 170,
+  "firstName": "bhupender",
+  "lastName": "Dugar ",
+  "gender": "male",
+  "age": 45,
+  "education": "primary",
+  "salary": 29000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "banglore"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835b4"
+  },
+  "user_id": 171,
+  "firstName": "raghunandan das",
+  "lastName": "Dugar ",
+  "gender": "male",
+  "age": 45,
+  "education": "primary",
+  "salary": 30000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "banglore"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835b5"
+  },
+  "user_id": 172,
+  "firstName": "sanjay",
+  "lastName": "Dutt ",
+  "gender": "male",
+  "age": 46,
+  "education": "primary",
+  "salary": 31000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "banglore"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835b6"
+  },
+  "user_id": 173,
+  "firstName": "ajay kumar",
+  "lastName": "Dutta ",
+  "gender": "male",
+  "age": 47,
+  "education": "primary",
+  "salary": 25000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "banglore"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835b7"
+  },
+  "user_id": 174,
+  "firstName": "yognder",
+  "lastName": "Dyal ",
+  "gender": "male",
+  "age": 48,
+  "education": "primary",
+  "salary": 26000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835b8"
+  },
+  "user_id": 175,
+  "firstName": "subhash",
+  "lastName": "Edwin ",
+  "gender": "male",
+  "age": 49,
+  "education": "phd",
+  "salary": 27000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835b9"
+  },
+  "user_id": 176,
+  "firstName": "arun @ vicky",
+  "lastName": "Gaba ",
+  "gender": "male",
+  "age": 45,
+  "education": "phd",
+  "salary": 28000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835ba"
+  },
+  "user_id": 177,
+  "firstName": "rahul",
+  "lastName": "Gade ",
+  "gender": "male",
+  "age": 45,
+  "education": "phd",
+  "salary": 29000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835bb"
+  },
+  "user_id": 178,
+  "firstName": "vikas",
+  "lastName": "Gala ",
+  "gender": "male",
+  "age": 45,
+  "education": "phd",
+  "salary": 30000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835bc"
+  },
+  "user_id": 179,
+  "firstName": "vinod",
+  "lastName": "Gandhi ",
+  "gender": "male",
+  "age": 27,
+  "education": "phd",
+  "salary": 31000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835bd"
+  },
+  "user_id": 180,
+  "firstName": "salman",
+  "lastName": "Ganesan ",
+  "gender": "male",
+  "age": 28,
+  "education": "phd",
+  "salary": 32000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835be"
+  },
+  "user_id": 181,
+  "firstName": "mohan kumar",
+  "lastName": "Ganesh ",
+  "gender": "male",
+  "age": 29,
+  "education": "phd",
+  "salary": 33000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835bf"
+  },
+  "user_id": 182,
+  "firstName": "sandeep meghawal",
+  "lastName": "Ganguly ",
+  "gender": "male",
+  "age": 30,
+  "education": "phd",
+  "salary": 34000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835c0"
+  },
+  "user_id": 183,
+  "firstName": "imamudeen",
+  "lastName": "Gara ",
+  "gender": "male",
+  "age": 31,
+  "education": "phd",
+  "salary": 35000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835c1"
+  },
+  "user_id": 184,
+  "firstName": "sandeep kumar",
+  "lastName": "Garde ",
+  "gender": "male",
+  "age": 32,
+  "education": "phd",
+  "salary": 36000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835c2"
+  },
+  "user_id": 185,
+  "firstName": "tarjan",
+  "lastName": "Garg ",
+  "gender": "male",
+  "age": 33,
+  "education": "phd",
+  "salary": 37000,
+  "maritalstatus": "married",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835c3"
+  },
+  "user_id": 186,
+  "firstName": "kuldeep singh",
+  "lastName": "Gera ",
+  "gender": "male",
+  "age": 34,
+  "education": "phd",
+  "salary": 15000,
+  "maritalstatus": "married",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835c4"
+  },
+  "user_id": 187,
+  "firstName": "murari",
+  "lastName": "Ghose ",
+  "gender": "male",
+  "age": 35,
+  "education": "phd",
+  "salary": 16000,
+  "maritalstatus": "married",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835c5"
+  },
+  "user_id": 188,
+  "firstName": "ramvilash",
+  "lastName": "Ghosh ",
+  "gender": "male",
+  "age": 36,
+  "education": "phd",
+  "salary": 17000,
+  "maritalstatus": "married",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835c6"
+  },
+  "user_id": 189,
+  "firstName": "jagdish",
+  "lastName": "Gill ",
+  "gender": "male",
+  "age": 37,
+  "education": "phd",
+  "salary": 18000,
+  "maritalstatus": "married",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835c7"
+  },
+  "user_id": 190,
+  "firstName": "vishal @ moni",
+  "lastName": "Goda ",
+  "gender": "male",
+  "age": 38,
+  "education": "phd",
+  "salary": 19000,
+  "maritalstatus": "married",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835c8"
+  },
+  "user_id": 191,
+  "firstName": "mohd shahid",
+  "lastName": "Goel ",
+  "gender": "male",
+  "age": 39,
+  "education": "secondary",
+  "salary": 20000,
+  "maritalstatus": "married",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835c9"
+  },
+  "user_id": 192,
+  "firstName": "ramvilash",
+  "lastName": "Gokhale ",
+  "gender": "male",
+  "age": 40,
+  "education": "secondary",
+  "salary": 21000,
+  "maritalstatus": "married",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835ca"
+  },
+  "user_id": 193,
+  "firstName": "kuldeep",
+  "lastName": "Gola ",
+  "gender": "male",
+  "age": 41,
+  "education": "secondary",
+  "salary": 22000,
+  "maritalstatus": "married",
+  "country": "africa",
+  "city": "lusaka"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835cb"
+  },
+  "user_id": 194,
+  "firstName": "talim",
+  "lastName": "Gole ",
+  "gender": "male",
+  "age": 42,
+  "education": "secondary",
+  "salary": 23000,
+  "maritalstatus": "married",
+  "country": "africa",
+  "city": "lusaka"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835cc"
+  },
+  "user_id": 195,
+  "firstName": "nanku prasad",
+  "lastName": "Golla ",
+  "gender": "male",
+  "age": 43,
+  "education": "higher secondary",
+  "salary": 24000,
+  "maritalstatus": "married",
+  "country": "africa",
+  "city": "lusaka"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835cd"
+  },
+  "user_id": 196,
+  "firstName": "bhola sarkar",
+  "lastName": "Gopal ",
+  "gender": "male",
+  "age": 32,
+  "education": "higher secondary",
+  "salary": 26000,
+  "maritalstatus": "married",
+  "country": "africa",
+  "city": "lusaka"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835ce"
+  },
+  "user_id": 197,
+  "firstName": "balraj",
+  "lastName": "Goswami ",
+  "gender": "male",
+  "age": 33,
+  "education": "higher secondary",
+  "salary": 27000,
+  "maritalstatus": "married",
+  "country": "africa",
+  "city": "lusaka"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835cf"
+  },
+  "user_id": 198,
+  "firstName": "ravindra kumar",
+  "lastName": "Gour ",
+  "gender": "male",
+  "age": 34,
+  "education": "higher secondary",
+  "salary": 28000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "lusaka"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835d0"
+  },
+  "user_id": 199,
+  "firstName": "rohit kumar",
+  "lastName": "Goyal ",
+  "gender": "male",
+  "age": 35,
+  "education": "higher secondary",
+  "salary": 29000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "lusaka"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835d1"
+  },
+  "user_id": 200,
+  "firstName": "uttam kumar @ sanki",
+  "lastName": "Grewal ",
+  "gender": "male",
+  "age": 36,
+  "education": "higher secondary",
+  "salary": 30000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835d2"
+  },
+  "user_id": 201,
+  "firstName": "babalu sen",
+  "lastName": "Grover ",
+  "gender": "male",
+  "age": 37,
+  "education": "higher secondary",
+  "salary": 31000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835d3"
+  },
+  "user_id": 202,
+  "firstName": "rustam shah",
+  "lastName": "Guha ",
+  "gender": "male",
+  "age": 38,
+  "education": "higher secondary",
+  "salary": 25000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835d4"
+  },
+  "user_id": 203,
+  "firstName": "sukhdev",
+  "lastName": "Gulati ",
+  "gender": "male",
+  "age": 39,
+  "education": "master",
+  "salary": 26000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835d5"
+  },
+  "user_id": 204,
+  "firstName": "b vikjay kumar",
+  "lastName": "Gupta ",
+  "gender": "male",
+  "age": 40,
+  "education": "master",
+  "salary": 27000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835d6"
+  },
+  "user_id": 205,
+  "firstName": "gopal sharma",
+  "lastName": "Halder ",
+  "gender": "male",
+  "age": 41,
+  "education": "master",
+  "salary": 28000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835d7"
+  },
+  "user_id": 206,
+  "firstName": "beeru",
+  "lastName": "Handa ",
+  "gender": "male",
+  "age": 42,
+  "education": "master",
+  "salary": 29000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "mumbai"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835d8"
+  },
+  "user_id": 207,
+  "firstName": "vipin",
+  "lastName": "Hans ",
+  "gender": "male",
+  "age": 43,
+  "education": "master",
+  "salary": 30000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "mumbai"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835d9"
+  },
+  "user_id": 208,
+  "firstName": "manish garg",
+  "lastName": "Hari ",
+  "gender": "male",
+  "age": 44,
+  "education": "master",
+  "salary": 31000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "mumbai"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835da"
+  },
+  "user_id": 209,
+  "firstName": "guddu",
+  "lastName": "Hayer ",
+  "gender": "male",
+  "age": 45,
+  "education": "master",
+  "salary": 32000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "mumbai"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835db"
+  },
+  "user_id": 210,
+  "firstName": "jatin @ sonu",
+  "lastName": "Hayre ",
+  "gender": "male",
+  "age": 46,
+  "education": "master",
+  "salary": 33000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "mumbai"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835dc"
+  },
+  "user_id": 211,
+  "firstName": "amit kumar",
+  "lastName": "Hegde ",
+  "gender": "male",
+  "age": 22,
+  "education": "graduate",
+  "salary": 34000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "ahmedabad"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835dd"
+  },
+  "user_id": 212,
+  "firstName": "amit kumar",
+  "lastName": "Hora ",
+  "gender": "male",
+  "age": 23,
+  "education": "graduate",
+  "salary": 35000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "ahmedabad"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835de"
+  },
+  "user_id": 213,
+  "firstName": "shadab",
+  "lastName": "Issac ",
+  "gender": "male",
+  "age": 24,
+  "education": "graduate",
+  "salary": 36000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "ahmedabad"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835df"
+  },
+  "user_id": 214,
+  "firstName": "rakesh",
+  "lastName": "Iyengar ",
+  "gender": "male",
+  "age": 25,
+  "education": "graduate",
+  "salary": 37000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "ahmedabad"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835e0"
+  },
+  "user_id": 215,
+  "firstName": "guddu",
+  "lastName": "Iyer ",
+  "gender": "male",
+  "age": 26,
+  "education": "graduate",
+  "salary": 15000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "ahmedabad"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835e1"
+  },
+  "user_id": 216,
+  "firstName": "abhishek",
+  "lastName": "Jaggi ",
+  "gender": "male",
+  "age": 27,
+  "education": "graduate",
+  "salary": 16000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "ahmedabad"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835e2"
+  },
+  "user_id": 217,
+  "firstName": "gulfam",
+  "lastName": "Jain ",
+  "gender": "male",
+  "age": 28,
+  "education": "graduate",
+  "salary": 17000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "ahmedabad"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835e3"
+  },
+  "user_id": 218,
+  "firstName": "phoolwati @ phoolo devi",
+  "lastName": "Jani ",
+  "gender": "male",
+  "age": 29,
+  "education": "graduate",
+  "salary": 18000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "ahmedabad"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835e4"
+  },
+  "user_id": 219,
+  "firstName": "mohit maan",
+  "lastName": "Jayaraman ",
+  "gender": "male",
+  "age": 24,
+  "education": "graduate",
+  "salary": 19000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835e5"
+  },
+  "user_id": 220,
+  "firstName": "veer bhan singh",
+  "lastName": "Jha ",
+  "gender": "male",
+  "age": 25,
+  "education": "graduate",
+  "salary": 20000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835e6"
+  },
+  "user_id": 221,
+  "firstName": "dinesh kumar",
+  "lastName": "Jhaveri ",
+  "gender": "male",
+  "age": 26,
+  "education": "graduate",
+  "salary": 21000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835e7"
+  },
+  "user_id": 222,
+  "firstName": "amarjeet",
+  "lastName": "Johal ",
+  "gender": "male",
+  "age": 27,
+  "education": "graduate",
+  "salary": 22000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835e8"
+  },
+  "user_id": 223,
+  "firstName": "satyadev",
+  "lastName": "Joshi ",
+  "gender": "male",
+  "age": 28,
+  "education": "graduate",
+  "salary": 23000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835e9"
+  },
+  "user_id": 224,
+  "firstName": "mohd. mukhtaar",
+  "lastName": "Kadakia ",
+  "gender": "male",
+  "age": 29,
+  "education": "graduate",
+  "salary": 24000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835ea"
+  },
+  "user_id": 225,
+  "firstName": "rishi",
+  "lastName": "Kade ",
+  "gender": "male",
+  "age": 30,
+  "education": "graduate",
+  "salary": 26000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835eb"
+  },
+  "user_id": 226,
+  "firstName": "esrail khan",
+  "lastName": "Kakar ",
+  "gender": "male",
+  "age": 31,
+  "education": "graduate",
+  "salary": 27000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835ec"
+  },
+  "user_id": 227,
+  "firstName": "suresh kumar",
+  "lastName": "Kala ",
+  "gender": "male",
+  "age": 32,
+  "education": "master",
+  "salary": 28000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835ed"
+  },
+  "user_id": 228,
+  "firstName": "pankaj chand",
+  "lastName": "Kala ",
+  "gender": "male",
+  "age": 33,
+  "education": "master",
+  "salary": 29000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835ee"
+  },
+  "user_id": 229,
+  "firstName": "ajay narayan",
+  "lastName": "Kala ",
+  "gender": "male",
+  "age": 50,
+  "education": "master",
+  "salary": 30000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835ef"
+  },
+  "user_id": 230,
+  "firstName": "mohit @ himanshu",
+  "lastName": "Kale ",
+  "gender": "male",
+  "age": 51,
+  "education": "master",
+  "salary": 31000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835f0"
+  },
+  "user_id": 231,
+  "firstName": "sumit",
+  "lastName": "Kalita ",
+  "gender": "male",
+  "age": 52,
+  "education": "master",
+  "salary": 25000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835f1"
+  },
+  "user_id": 232,
+  "firstName": "saddam",
+  "lastName": "Kalla ",
+  "gender": "male",
+  "age": 53,
+  "education": "master",
+  "salary": 26000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835f2"
+  },
+  "user_id": 233,
+  "firstName": "nikhleshwar bhagat",
+  "lastName": "Kamdar ",
+  "gender": "male",
+  "age": 54,
+  "education": "master",
+  "salary": 27000,
+  "maritalstatus": "married",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835f3"
+  },
+  "user_id": 234,
+  "firstName": "jai singh",
+  "lastName": "Kanda ",
+  "gender": "male",
+  "age": 55,
+  "education": "master",
+  "salary": 28000,
+  "maritalstatus": "married",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835f4"
+  },
+  "user_id": 235,
+  "firstName": "deepak",
+  "lastName": "Kannan ",
+  "gender": "male",
+  "age": 56,
+  "education": "primary",
+  "salary": 29000,
+  "maritalstatus": "married",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835f5"
+  },
+  "user_id": 236,
+  "firstName": "sunil kumar",
+  "lastName": "Kant ",
+  "gender": "male",
+  "age": 57,
+  "education": "phd",
+  "salary": 30000,
+  "maritalstatus": "married",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835f6"
+  },
+  "user_id": 237,
+  "firstName": "ram kishan",
+  "lastName": "Kapadia ",
+  "gender": "male",
+  "age": 58,
+  "education": "phd",
+  "salary": 31000,
+  "maritalstatus": "married",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835f7"
+  },
+  "user_id": 238,
+  "firstName": "arun",
+  "lastName": "Kapoor ",
+  "gender": "male",
+  "age": 59,
+  "education": "phd",
+  "salary": 32000,
+  "maritalstatus": "married",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835f8"
+  },
+  "user_id": 239,
+  "firstName": "virender",
+  "lastName": "Kapur ",
+  "gender": "male",
+  "age": 60,
+  "education": "phd",
+  "salary": 33000,
+  "maritalstatus": "married",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835f9"
+  },
+  "user_id": 240,
+  "firstName": "bishun",
+  "lastName": "Kar ",
+  "gender": "male",
+  "age": 61,
+  "education": "phd",
+  "salary": 34000,
+  "maritalstatus": "unmarried",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835fa"
+  },
+  "user_id": 241,
+  "firstName": "pritam singh",
+  "lastName": "Kara ",
+  "gender": "male",
+  "age": 62,
+  "education": "phd",
+  "salary": 35000,
+  "maritalstatus": "unmarried",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835fb"
+  },
+  "user_id": 242,
+  "firstName": "akash gupta",
+  "lastName": "Karan ",
+  "gender": "male",
+  "age": 63,
+  "education": "phd",
+  "salary": 36000,
+  "maritalstatus": "unmarried",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835fc"
+  },
+  "user_id": 243,
+  "firstName": "kishan",
+  "lastName": "Kari ",
+  "gender": "male",
+  "age": 64,
+  "education": "phd",
+  "salary": 37000,
+  "maritalstatus": "unmarried",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835fd"
+  },
+  "user_id": 244,
+  "firstName": "mohd kausar",
+  "lastName": "Karnik ",
+  "gender": "male",
+  "age": 19,
+  "education": "phd",
+  "salary": 15000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835fe"
+  },
+  "user_id": 245,
+  "firstName": "sachin",
+  "lastName": "Karpe ",
+  "gender": "male",
+  "age": 20,
+  "education": "phd",
+  "salary": 16000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de76251835ff"
+  },
+  "user_id": 246,
+  "firstName": "harman singh",
+  "lastName": "Kashyap ",
+  "gender": "male",
+  "age": 21,
+  "education": "phd",
+  "salary": 17000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183600"
+  },
+  "user_id": 247,
+  "firstName": "deepak",
+  "lastName": "Kata ",
+  "gender": "male",
+  "age": 22,
+  "education": "phd",
+  "salary": 18000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183601"
+  },
+  "user_id": 248,
+  "firstName": "rajbir",
+  "lastName": "Kaul ",
+  "gender": "male",
+  "age": 23,
+  "education": "phd",
+  "salary": 19000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183602"
+  },
+  "user_id": 249,
+  "firstName": "vinod lal",
+  "lastName": "Kaur ",
+  "gender": "male",
+  "age": 24,
+  "education": "phd",
+  "salary": 20000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183603"
+  },
+  "user_id": 250,
+  "firstName": "chander shaker",
+  "lastName": "Keer ",
+  "gender": "male",
+  "age": 25,
+  "education": "phd",
+  "salary": 21000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183604"
+  },
+  "user_id": 251,
+  "firstName": "krishan",
+  "lastName": "Keer ",
+  "gender": "male",
+  "age": 26,
+  "education": "phd",
+  "salary": 22000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183605"
+  },
+  "user_id": 252,
+  "firstName": "ram ji",
+  "lastName": "Khalsa ",
+  "gender": "male",
+  "age": 27,
+  "education": "phd",
+  "salary": 23000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183606"
+  },
+  "user_id": 253,
+  "firstName": "jony",
+  "lastName": "Khanna ",
+  "gender": "male",
+  "age": 28,
+  "education": "phd",
+  "salary": 24000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183607"
+  },
+  "user_id": 254,
+  "firstName": "mohammad ali",
+  "lastName": "Khare ",
+  "gender": "male",
+  "age": 29,
+  "education": "phd",
+  "salary": 26000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183608"
+  },
+  "user_id": 255,
+  "firstName": "ashok kumar s/o",
+  "lastName": "Khatri ",
+  "gender": "male",
+  "age": 30,
+  "education": "phd",
+  "salary": 27000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183609"
+  },
+  "user_id": 256,
+  "firstName": "ravinder @ bacchi",
+  "lastName": "Khosla ",
+  "gender": "male",
+  "age": 31,
+  "education": "phd",
+  "salary": 28000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de762518360a"
+  },
+  "user_id": 257,
+  "firstName": "amit",
+  "lastName": "Khurana ",
+  "gender": "male",
+  "age": 32,
+  "education": "phd",
+  "salary": 29000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de762518360b"
+  },
+  "user_id": 258,
+  "firstName": "guman singh basyal",
+  "lastName": "Kibe ",
+  "gender": "male",
+  "age": 33,
+  "education": "phd",
+  "salary": 30000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de762518360c"
+  },
+  "user_id": 259,
+  "firstName": "amardeep",
+  "lastName": "Kohli ",
+  "gender": "male",
+  "age": 34,
+  "education": "phd",
+  "salary": 31000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de762518360d"
+  },
+  "user_id": 260,
+  "firstName": "jagdish",
+  "lastName": " ",
+  "gender": "male",
+  "age": 35,
+  "education": "phd",
+  "salary": 25000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de762518360e"
+  },
+  "user_id": 261,
+  "firstName": "bharat",
+  "lastName": "Konda ",
+  "gender": "male",
+  "age": 36,
+  "education": "phd",
+  "salary": 26000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de762518360f"
+  },
+  "user_id": 262,
+  "firstName": "azaz",
+  "lastName": "Korpal ",
+  "gender": "male",
+  "age": 44,
+  "education": "primary",
+  "salary": 27000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183610"
+  },
+  "user_id": 263,
+  "firstName": "raja kumar",
+  "lastName": "Koshy ",
+  "gender": "male",
+  "age": 45,
+  "education": "primary",
+  "salary": 28000,
+  "maritalstatus": "married",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183611"
+  },
+  "user_id": 264,
+  "firstName": "parveen",
+  "lastName": "Kota ",
+  "gender": "male",
+  "age": 46,
+  "education": "primary",
+  "salary": 29000,
+  "maritalstatus": "married",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183612"
+  },
+  "user_id": 265,
+  "firstName": "mahabir prasad",
+  "lastName": "Kothari ",
+  "gender": "male",
+  "age": 47,
+  "education": "primary",
+  "salary": 30000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "banglore"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183613"
+  },
+  "user_id": 266,
+  "firstName": "kartik @ kaku",
+  "lastName": "Krish ",
+  "gender": "male",
+  "age": 48,
+  "education": "primary",
+  "salary": 31000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "banglore"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183614"
+  },
+  "user_id": 267,
+  "firstName": "shubham yadav",
+  "lastName": "Krishna ",
+  "gender": "male",
+  "age": 49,
+  "education": "primary",
+  "salary": 32000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "banglore"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183615"
+  },
+  "user_id": 268,
+  "firstName": "yogesh",
+  "lastName": "Krishnamurthy ",
+  "gender": "male",
+  "age": 50,
+  "education": "primary",
+  "salary": 33000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "banglore"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183616"
+  },
+  "user_id": 269,
+  "firstName": "madan",
+  "lastName": "Krishnan ",
+  "gender": "male",
+  "age": 51,
+  "education": "primary",
+  "salary": 34000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "banglore"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183617"
+  },
+  "user_id": 270,
+  "firstName": "rashid",
+  "lastName": "Kulkarni ",
+  "gender": "male",
+  "age": 52,
+  "education": "primary",
+  "salary": 35000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "banglore"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183618"
+  },
+  "user_id": 271,
+  "firstName": "jitender",
+  "lastName": "Kumar ",
+  "gender": "male",
+  "age": 53,
+  "education": "primary",
+  "salary": 36000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "banglore"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183619"
+  },
+  "user_id": 272,
+  "firstName": "pawan kumar",
+  "lastName": "Kumer ",
+  "gender": "male",
+  "age": 45,
+  "education": "primary",
+  "salary": 37000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "banglore"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de762518361a"
+  },
+  "user_id": 273,
+  "firstName": "vivek",
+  "lastName": "Kunda ",
+  "gender": "male",
+  "age": 45,
+  "education": "primary",
+  "salary": 15000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "banglore"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de762518361b"
+  },
+  "user_id": 274,
+  "firstName": "pintu kumar",
+  "lastName": "Kurian ",
+  "gender": "male",
+  "age": 46,
+  "education": "primary",
+  "salary": 16000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "banglore"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de762518361c"
+  },
+  "user_id": 275,
+  "firstName": "deep",
+  "lastName": "Kuruvilla ",
+  "gender": "male",
+  "age": 47,
+  "education": "primary",
+  "salary": 17000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "banglore"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de762518361d"
+  },
+  "user_id": 276,
+  "firstName": "dharmbir",
+  "lastName": "Lad ",
+  "gender": "male",
+  "age": 48,
+  "education": "primary",
+  "salary": 18000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de762518361e"
+  },
+  "user_id": 277,
+  "firstName": "rishi kakdia",
+  "lastName": "Lad ",
+  "gender": "male",
+  "age": 49,
+  "education": "phd",
+  "salary": 19000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de762518361f"
+  },
+  "user_id": 278,
+  "firstName": "kunal @ kannu",
+  "lastName": "Lal ",
+  "gender": "male",
+  "age": 45,
+  "education": "phd",
+  "salary": 20000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183620"
+  },
+  "user_id": 279,
+  "firstName": "arman ansari",
+  "lastName": "Lala ",
+  "gender": "male",
+  "age": 45,
+  "education": "phd",
+  "salary": 21000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183621"
+  },
+  "user_id": 280,
+  "firstName": "avinsh",
+  "lastName": "Lall ",
+  "gender": "male",
+  "age": 45,
+  "education": "phd",
+  "salary": 22000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183622"
+  },
+  "user_id": 281,
+  "firstName": "karan",
+  "lastName": "Lalla ",
+  "gender": "male",
+  "age": 27,
+  "education": "phd",
+  "salary": 23000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183623"
+  },
+  "user_id": 282,
+  "firstName": "sandeep kumar",
+  "lastName": "Lanka ",
+  "gender": "male",
+  "age": 28,
+  "education": "phd",
+  "salary": 24000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183624"
+  },
+  "user_id": 283,
+  "firstName": "sagar",
+  "lastName": "Lata ",
+  "gender": "male",
+  "age": 29,
+  "education": "phd",
+  "salary": 26000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183625"
+  },
+  "user_id": 284,
+  "firstName": "nikhil",
+  "lastName": "Loke ",
+  "gender": "male",
+  "age": 30,
+  "education": "phd",
+  "salary": 27000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183626"
+  },
+  "user_id": 285,
+  "firstName": "raman",
+  "lastName": "Loyal ",
+  "gender": "male",
+  "age": 31,
+  "education": "phd",
+  "salary": 28000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183627"
+  },
+  "user_id": 286,
+  "firstName": "sujen manjhi",
+  "lastName": "Luthra ",
+  "gender": "male",
+  "age": 32,
+  "education": "phd",
+  "salary": 29000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183628"
+  },
+  "user_id": 287,
+  "firstName": "abhijeet",
+  "lastName": "Madan ",
+  "gender": "male",
+  "age": 33,
+  "education": "phd",
+  "salary": 30000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183629"
+  },
+  "user_id": 288,
+  "firstName": "anshu",
+  "lastName": "Madan ",
+  "gender": "male",
+  "age": 34,
+  "education": "phd",
+  "salary": 31000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de762518362a"
+  },
+  "user_id": 289,
+  "firstName": "sahil",
+  "lastName": "Magar ",
+  "gender": "male",
+  "age": 35,
+  "education": "phd",
+  "salary": 25000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de762518362b"
+  },
+  "user_id": 290,
+  "firstName": "aditya som",
+  "lastName": "Mahajan ",
+  "gender": "male",
+  "age": 36,
+  "education": "phd",
+  "salary": 26000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de762518362c"
+  },
+  "user_id": 291,
+  "firstName": "gaurav",
+  "lastName": "Mahal ",
+  "gender": "male",
+  "age": 37,
+  "education": "phd",
+  "salary": 27000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de762518362d"
+  },
+  "user_id": 292,
+  "firstName": "raja kumar",
+  "lastName": "Maharaj ",
+  "gender": "male",
+  "age": 38,
+  "education": "phd",
+  "salary": 28000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de762518362e"
+  },
+  "user_id": 293,
+  "firstName": "sunil",
+  "lastName": "Majumdar ",
+  "gender": "male",
+  "age": 39,
+  "education": "secondary",
+  "salary": 29000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de762518362f"
+  },
+  "user_id": 294,
+  "firstName": "ravi kumar",
+  "lastName": "Malhotra ",
+  "gender": "male",
+  "age": 40,
+  "education": "secondary",
+  "salary": 30000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183630"
+  },
+  "user_id": 295,
+  "firstName": "shankar kumar",
+  "lastName": "Mall ",
+  "gender": "male",
+  "age": 41,
+  "education": "secondary",
+  "salary": 31000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "lusaka"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183631"
+  },
+  "user_id": 296,
+  "firstName": "mahabir prasad",
+  "lastName": "Hegde ",
+  "gender": "male",
+  "age": 42,
+  "education": "secondary",
+  "salary": 32000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "lusaka"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183632"
+  },
+  "user_id": 297,
+  "firstName": "kartik @ kaku",
+  "lastName": "Hora ",
+  "gender": "male",
+  "age": 43,
+  "education": "higher secondary",
+  "salary": 33000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "lusaka"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183633"
+  },
+  "user_id": 298,
+  "firstName": "shubham yadav",
+  "lastName": "Issac ",
+  "gender": "male",
+  "age": 32,
+  "education": "higher secondary",
+  "salary": 34000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "lusaka"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183634"
+  },
+  "user_id": 299,
+  "firstName": "yogesh",
+  "lastName": "Iyengar ",
+  "gender": "male",
+  "age": 33,
+  "education": "higher secondary",
+  "salary": 35000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "lusaka"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183635"
+  },
+  "user_id": 300,
+  "firstName": "madan",
+  "lastName": "Iyer ",
+  "gender": "male",
+  "age": 34,
+  "education": "higher secondary",
+  "salary": 36000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "lusaka"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183636"
+  },
+  "user_id": 301,
+  "firstName": "rashid",
+  "lastName": "Jaggi ",
+  "gender": "male",
+  "age": 35,
+  "education": "higher secondary",
+  "salary": 37000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "lusaka"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183637"
+  },
+  "user_id": 302,
+  "firstName": "jitender",
+  "lastName": "Jain ",
+  "gender": "male",
+  "age": 36,
+  "education": "higher secondary",
+  "salary": 15000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183638"
+  },
+  "user_id": 303,
+  "firstName": "pawan kumar",
+  "lastName": "Jani ",
+  "gender": "male",
+  "age": 37,
+  "education": "higher secondary",
+  "salary": 16000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183639"
+  },
+  "user_id": 304,
+  "firstName": "vivek",
+  "lastName": "Jayaraman ",
+  "gender": "male",
+  "age": 38,
+  "education": "higher secondary",
+  "salary": 17000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de762518363a"
+  },
+  "user_id": 305,
+  "firstName": "pintu kumar",
+  "lastName": "Jha ",
+  "gender": "male",
+  "age": 39,
+  "education": "master",
+  "salary": 18000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de762518363b"
+  },
+  "user_id": 306,
+  "firstName": "deep",
+  "lastName": "Jhaveri ",
+  "gender": "male",
+  "age": 40,
+  "education": "master",
+  "salary": 19000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de762518363c"
+  },
+  "user_id": 307,
+  "firstName": "dharmbir",
+  "lastName": "Johal ",
+  "gender": "male",
+  "age": 41,
+  "education": "master",
+  "salary": 20000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de762518363d"
+  },
+  "user_id": 308,
+  "firstName": "rishi kakdia",
+  "lastName": "Joshi ",
+  "gender": "male",
+  "age": 42,
+  "education": "master",
+  "salary": 21000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "mumbai"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de762518363e"
+  },
+  "user_id": 309,
+  "firstName": "kunal @ kannu",
+  "lastName": "Kadakia ",
+  "gender": "male",
+  "age": 43,
+  "education": "master",
+  "salary": 22000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "mumbai"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de762518363f"
+  },
+  "user_id": 310,
+  "firstName": "arman ansari",
+  "lastName": "Kade ",
+  "gender": "male",
+  "age": 44,
+  "education": "master",
+  "salary": 23000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "mumbai"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183640"
+  },
+  "user_id": 311,
+  "firstName": "avinsh",
+  "lastName": "Kakar ",
+  "gender": "male",
+  "age": 45,
+  "education": "master",
+  "salary": 24000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "mumbai"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183641"
+  },
+  "user_id": 312,
+  "firstName": "harshad",
+  "lastName": "Kala ",
+  "gender": "male",
+  "age": 46,
+  "education": "master",
+  "salary": 25000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "mumbai"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183642"
+  },
+  "user_id": 313,
+  "firstName": "sandeep kumar",
+  "lastName": "Kala ",
+  "gender": "male",
+  "age": 22,
+  "education": "graduate",
+  "salary": 26000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "pune"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183643"
+  },
+  "user_id": 314,
+  "firstName": "sagar",
+  "lastName": "Kala ",
+  "gender": "male",
+  "age": 23,
+  "education": "graduate",
+  "salary": 22000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "pune"
+},{
+  "_id": {
+    "$oid": "60cf78f6d6e5de7625183644"
+  },
+  "user_id": 315,
+  "firstName": "nikhil",
+  "lastName": "Kale ",
+  "gender": "male",
+  "age": 24,
+  "education": "graduate",
+  "salary": 23000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "pune"
+},{
+  "_id": {
+    "$oid": "60cff4a52a0639bdf32ae85a"
+  },
+  "user_id": 316,
+  "firstName": "niyati",
+  "lastName": "Kale ",
+  "gender": "female",
+  "age": 24,
+  "education": "graduate",
+  "salary": 23000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "pune"
+},{
+  "_id": {
+    "$oid": "60cff95507e16410b92d7c12"
+  },
+  "user_id": 317,
+  "firstName": "navya",
+  "lastName": "Kale ",
+  "gender": "female",
+  "age": 42,
+  "education": "graduate",
+  "salary": 28000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "hariyana"
+},{
+  "_id": {
+    "$oid": "60db39b47e01942eee89f5d6"
+  },
+  "user_id": 318,
+  "firstName": "aslam allam",
+  "lastName": "Grewal ",
+  "gender": "male",
+  "age": 27,
+  "education": "graduate",
+  "salary": 26000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "ahmedabad"
+},{
+  "_id": {
+    "$oid": "60db3ae77e01942eee89f5d7"
+  },
+  "user_id": 318,
+  "firstName": "aslam allam",
+  "lastName": "Grewal ",
+  "gender": "male",
+  "age": 27,
+  "education": "graduate",
+  "salary": 26000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "ahmedabad"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f5d8"
+  },
+  "user_id": 318,
+  "firstName": "aslam allam",
+  "lastName": "Grewal ",
+  "gender": "male",
+  "age": 27,
+  "education": "graduate",
+  "salary": 26000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "ahmedabad"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f5d9"
+  },
+  "user_id": 319,
+  "firstName": "rahul",
+  "lastName": "Grover ",
+  "gender": "male",
+  "age": 28,
+  "education": "graduate",
+  "salary": 27000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "ahmedabad"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f5da"
+  },
+  "user_id": 320,
+  "firstName": "jitender kumar",
+  "lastName": "Guha ",
+  "gender": "male",
+  "age": 29,
+  "education": "graduate",
+  "salary": 28000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "ahmedabad"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f5db"
+  },
+  "user_id": 321,
+  "firstName": "adnan",
+  "lastName": "Gulati ",
+  "gender": "male",
+  "age": 24,
+  "education": "graduate",
+  "salary": 29000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "ahmedabad"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f5dc"
+  },
+  "user_id": 322,
+  "firstName": "vijay",
+  "lastName": "Gupta ",
+  "gender": "male",
+  "age": 25,
+  "education": "graduate",
+  "salary": 33000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "ahmedabad"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f5dd"
+  },
+  "user_id": 323,
+  "firstName": "yogesh",
+  "lastName": "Halder ",
+  "gender": "male",
+  "age": 26,
+  "education": "graduate",
+  "salary": 34000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "ahmedabad"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f5de"
+  },
+  "user_id": 324,
+  "firstName": "kabir",
+  "lastName": "Handa ",
+  "gender": "male",
+  "age": 27,
+  "education": "graduate",
+  "salary": 35000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f5df"
+  },
+  "user_id": 325,
+  "firstName": "sarvesh",
+  "lastName": "Hans ",
+  "gender": "male",
+  "age": 28,
+  "education": "graduate",
+  "salary": 36000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f5e0"
+  },
+  "user_id": 326,
+  "firstName": "rakesh sarkar",
+  "lastName": "Hari ",
+  "gender": "male",
+  "age": 29,
+  "education": "graduate",
+  "salary": 37000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f5e1"
+  },
+  "user_id": 327,
+  "firstName": "akash gupta",
+  "lastName": "Hayer ",
+  "gender": "male",
+  "age": 30,
+  "education": "graduate",
+  "salary": 38000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f5e2"
+  },
+  "user_id": 328,
+  "firstName": "rahul",
+  "lastName": "Hayre ",
+  "gender": "male",
+  "age": 31,
+  "education": "graduate",
+  "salary": 39000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f5e3"
+  },
+  "user_id": 329,
+  "firstName": "pintu thakur",
+  "lastName": "Hegde ",
+  "gender": "male",
+  "age": 32,
+  "education": "master",
+  "salary": 40000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f5e4"
+  },
+  "user_id": 330,
+  "firstName": "vivek",
+  "lastName": "Hora ",
+  "gender": "male",
+  "age": 33,
+  "education": "master",
+  "salary": 41000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f5e5"
+  },
+  "user_id": 331,
+  "firstName": "mohd khairul",
+  "lastName": "Issac ",
+  "gender": "male",
+  "age": 50,
+  "education": "master",
+  "salary": 42000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f5e6"
+  },
+  "user_id": 332,
+  "firstName": "farmaan khan",
+  "lastName": "Iyengar ",
+  "gender": "male",
+  "age": 51,
+  "education": "master",
+  "salary": 43000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f5e7"
+  },
+  "user_id": 333,
+  "firstName": "vansu dev",
+  "lastName": "Iyer ",
+  "gender": "male",
+  "age": 52,
+  "education": "master",
+  "salary": 44000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f5e8"
+  },
+  "user_id": 334,
+  "firstName": "vansu dev",
+  "lastName": "Jaggi ",
+  "gender": "male",
+  "age": 53,
+  "education": "master",
+  "salary": 45000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f5e9"
+  },
+  "user_id": 335,
+  "firstName": "shyam kumar",
+  "lastName": "Jain ",
+  "gender": "male",
+  "age": 54,
+  "education": "master",
+  "salary": 46000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f5ea"
+  },
+  "user_id": 336,
+  "firstName": "shafibul",
+  "lastName": "Jani ",
+  "gender": "male",
+  "age": 55,
+  "education": "master",
+  "salary": 50000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f5eb"
+  },
+  "user_id": 337,
+  "firstName": "lalit kathuriya",
+  "lastName": "Jayaraman ",
+  "gender": "male",
+  "age": 56,
+  "education": "primary",
+  "salary": 51000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f5ec"
+  },
+  "user_id": 338,
+  "firstName": "pooran chand",
+  "lastName": "Jha ",
+  "gender": "male",
+  "age": 57,
+  "education": "phd",
+  "salary": 52000,
+  "maritalstatus": "married",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f5ed"
+  },
+  "user_id": 339,
+  "firstName": "aamir hussain",
+  "lastName": "Jhaveri ",
+  "gender": "male",
+  "age": 58,
+  "education": "phd",
+  "salary": 53000,
+  "maritalstatus": "married",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f5ee"
+  },
+  "user_id": 340,
+  "firstName": "kamal jit singh",
+  "lastName": "Johal ",
+  "gender": "male",
+  "age": 59,
+  "education": "phd",
+  "salary": 26000,
+  "maritalstatus": "married",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f5ef"
+  },
+  "user_id": 341,
+  "firstName": "shiv kumar",
+  "lastName": "Joshi ",
+  "gender": "male",
+  "age": 60,
+  "education": "phd",
+  "salary": 27000,
+  "maritalstatus": "married",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f5f0"
+  },
+  "user_id": 342,
+  "firstName": "mayank chaudhary @ rahul",
+  "lastName": "Kadakia ",
+  "gender": "male",
+  "age": 61,
+  "education": "phd",
+  "salary": 28000,
+  "maritalstatus": "married",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f5f1"
+  },
+  "user_id": 343,
+  "firstName": "rohit",
+  "lastName": "Kade ",
+  "gender": "male",
+  "age": 62,
+  "education": "phd",
+  "salary": 29000,
+  "maritalstatus": "married",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f5f2"
+  },
+  "user_id": 344,
+  "firstName": "som dutt",
+  "lastName": "Kakar ",
+  "gender": "male",
+  "age": 63,
+  "education": "phd",
+  "salary": 30000,
+  "maritalstatus": "married",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f5f3"
+  },
+  "user_id": 345,
+  "firstName": "bablu regar",
+  "lastName": "Kala ",
+  "gender": "male",
+  "age": 64,
+  "education": "phd",
+  "salary": 31000,
+  "maritalstatus": "married",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f5f4"
+  },
+  "user_id": 346,
+  "firstName": "rohit",
+  "lastName": "Kala ",
+  "gender": "male",
+  "age": 19,
+  "education": "phd",
+  "salary": 25000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f5f5"
+  },
+  "user_id": 347,
+  "firstName": "rajkumar",
+  "lastName": "Kala ",
+  "gender": "male",
+  "age": 20,
+  "education": "phd",
+  "salary": 26000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f5f6"
+  },
+  "user_id": 348,
+  "firstName": "mubarik",
+  "lastName": "Kale ",
+  "gender": "male",
+  "age": 21,
+  "education": "phd",
+  "salary": 27000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f5f7"
+  },
+  "user_id": 349,
+  "firstName": "niraj",
+  "lastName": "Kalita ",
+  "gender": "male",
+  "age": 22,
+  "education": "phd",
+  "salary": 28000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f5f8"
+  },
+  "user_id": 350,
+  "firstName": "sarbjeet @ ronak",
+  "lastName": "Kalla ",
+  "gender": "male",
+  "age": 23,
+  "education": "phd",
+  "salary": 29000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f5f9"
+  },
+  "user_id": 351,
+  "firstName": "axat",
+  "lastName": "Kamdar ",
+  "gender": "male",
+  "age": 24,
+  "education": "phd",
+  "salary": 30000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f5fa"
+  },
+  "user_id": 352,
+  "firstName": "amit",
+  "lastName": "Kanda ",
+  "gender": "male",
+  "age": 25,
+  "education": "phd",
+  "salary": 31000,
+  "maritalstatus": "unmarried",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f5fb"
+  },
+  "user_id": 353,
+  "firstName": "anubhav shrivastab",
+  "lastName": "Kannan ",
+  "gender": "male",
+  "age": 26,
+  "education": "phd",
+  "salary": 32000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f5fc"
+  },
+  "user_id": 354,
+  "firstName": "akkash",
+  "lastName": "Kant ",
+  "gender": "male",
+  "age": 27,
+  "education": "phd",
+  "salary": 33000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f5fd"
+  },
+  "user_id": 355,
+  "firstName": "himanshu",
+  "lastName": "Kapadia ",
+  "gender": "male",
+  "age": 28,
+  "education": "phd",
+  "salary": 34000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f5fe"
+  },
+  "user_id": 356,
+  "firstName": "harsh dagar",
+  "lastName": "Kapoor ",
+  "gender": "male",
+  "age": 29,
+  "education": "phd",
+  "salary": 35000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f5ff"
+  },
+  "user_id": 357,
+  "firstName": "anil kumar",
+  "lastName": "Kapur ",
+  "gender": "male",
+  "age": 30,
+  "education": "phd",
+  "salary": 28000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f600"
+  },
+  "user_id": 358,
+  "firstName": "vijay virmani",
+  "lastName": "Kar ",
+  "gender": "male",
+  "age": 31,
+  "education": "phd",
+  "salary": 29000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f601"
+  },
+  "user_id": 359,
+  "firstName": "vivek auhari",
+  "lastName": "Kara ",
+  "gender": "male",
+  "age": 32,
+  "education": "phd",
+  "salary": 30000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f602"
+  },
+  "user_id": 360,
+  "firstName": "sachin",
+  "lastName": "Karan ",
+  "gender": "male",
+  "age": 33,
+  "education": "phd",
+  "salary": 31000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f603"
+  },
+  "user_id": 361,
+  "firstName": "subhash chand bhatia",
+  "lastName": "Kari ",
+  "gender": "male",
+  "age": 34,
+  "education": "phd",
+  "salary": 32000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f604"
+  },
+  "user_id": 362,
+  "firstName": "bhupender",
+  "lastName": "Karnik ",
+  "gender": "male",
+  "age": 35,
+  "education": "phd",
+  "salary": 33000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f605"
+  },
+  "user_id": 363,
+  "firstName": "raghunandan das",
+  "lastName": "Karpe ",
+  "gender": "male",
+  "age": 36,
+  "education": "phd",
+  "salary": 34000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f606"
+  },
+  "user_id": 364,
+  "firstName": "sanjay",
+  "lastName": "Kashyap ",
+  "gender": "male",
+  "age": 44,
+  "education": "primary",
+  "salary": 35000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f607"
+  },
+  "user_id": 365,
+  "firstName": "ajay kumar",
+  "lastName": "Kata ",
+  "gender": "male",
+  "age": 45,
+  "education": "primary",
+  "salary": 36000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f608"
+  },
+  "user_id": 366,
+  "firstName": "yognder",
+  "lastName": "Kaul ",
+  "gender": "male",
+  "age": 46,
+  "education": "primary",
+  "salary": 37000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f609"
+  },
+  "user_id": 367,
+  "firstName": "subhash",
+  "lastName": "Kaur ",
+  "gender": "male",
+  "age": 47,
+  "education": "primary",
+  "salary": 38000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f60a"
+  },
+  "user_id": 368,
+  "firstName": "arun @ vicky",
+  "lastName": "Keer ",
+  "gender": "male",
+  "age": 48,
+  "education": "primary",
+  "salary": 24000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f60b"
+  },
+  "user_id": 369,
+  "firstName": "rahul",
+  "lastName": "Keer ",
+  "gender": "male",
+  "age": 49,
+  "education": "primary",
+  "salary": 26000,
+  "maritalstatus": "married",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f60c"
+  },
+  "user_id": 370,
+  "firstName": "vikas",
+  "lastName": "Khalsa ",
+  "gender": "male",
+  "age": 50,
+  "education": "primary",
+  "salary": 27000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "delhi"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f60d"
+  },
+  "user_id": 371,
+  "firstName": "vinod",
+  "lastName": "Khanna ",
+  "gender": "male",
+  "age": 51,
+  "education": "primary",
+  "salary": 28000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "delhi"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f60e"
+  },
+  "user_id": 372,
+  "firstName": "salman",
+  "lastName": "Khare ",
+  "gender": "male",
+  "age": 52,
+  "education": "primary",
+  "salary": 29000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "delhi"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f60f"
+  },
+  "user_id": 373,
+  "firstName": "mohan kumar",
+  "lastName": "Khatri ",
+  "gender": "male",
+  "age": 53,
+  "education": "primary",
+  "salary": 30000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "delhi"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f610"
+  },
+  "user_id": 374,
+  "firstName": "sandeep meghawal",
+  "lastName": "Khosla ",
+  "gender": "male",
+  "age": 45,
+  "education": "primary",
+  "salary": 31000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "delhi"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f611"
+  },
+  "user_id": 375,
+  "firstName": "imamudeen",
+  "lastName": "Khurana ",
+  "gender": "male",
+  "age": 45,
+  "education": "primary",
+  "salary": 25000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "delhi"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f612"
+  },
+  "user_id": 376,
+  "firstName": "sandeep kumar",
+  "lastName": "Kibe ",
+  "gender": "male",
+  "age": 46,
+  "education": "primary",
+  "salary": 26000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "delhi"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f613"
+  },
+  "user_id": 377,
+  "firstName": "tarjan",
+  "lastName": "Kohli ",
+  "gender": "male",
+  "age": 47,
+  "education": "primary",
+  "salary": 27000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "delhi"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f614"
+  },
+  "user_id": 378,
+  "firstName": "kuldeep singh",
+  "lastName": " ",
+  "gender": "male",
+  "age": 48,
+  "education": "primary",
+  "salary": 28000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "delhi"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f615"
+  },
+  "user_id": 379,
+  "firstName": "murari",
+  "lastName": "Konda ",
+  "gender": "male",
+  "age": 49,
+  "education": "phd",
+  "salary": 29000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "delhi"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f616"
+  },
+  "user_id": 380,
+  "firstName": "ramvilash",
+  "lastName": "Korpal ",
+  "gender": "male",
+  "age": 45,
+  "education": "phd",
+  "salary": 30000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "delhi"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f617"
+  },
+  "user_id": 381,
+  "firstName": "jagdish",
+  "lastName": "Koshy ",
+  "gender": "male",
+  "age": 45,
+  "education": "phd",
+  "salary": 31000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f618"
+  },
+  "user_id": 382,
+  "firstName": "vishal @ moni",
+  "lastName": "Kota ",
+  "gender": "male",
+  "age": 45,
+  "education": "phd",
+  "salary": 32000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f619"
+  },
+  "user_id": 383,
+  "firstName": "mohd shahid",
+  "lastName": "Kothari ",
+  "gender": "male",
+  "age": 27,
+  "education": "phd",
+  "salary": 33000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f61a"
+  },
+  "user_id": 384,
+  "firstName": "ramvilash",
+  "lastName": "Krish ",
+  "gender": "male",
+  "age": 28,
+  "education": "phd",
+  "salary": 34000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f61b"
+  },
+  "user_id": 385,
+  "firstName": "kuldeep",
+  "lastName": "Krishna ",
+  "gender": "male",
+  "age": 29,
+  "education": "phd",
+  "salary": 35000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f61c"
+  },
+  "user_id": 386,
+  "firstName": "talim",
+  "lastName": "Krishnamurthy ",
+  "gender": "male",
+  "age": 30,
+  "education": "phd",
+  "salary": 25000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f61d"
+  },
+  "user_id": 387,
+  "firstName": "nanku prasad",
+  "lastName": "Krishnan ",
+  "gender": "male",
+  "age": 31,
+  "education": "phd",
+  "salary": 26000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f61e"
+  },
+  "user_id": 388,
+  "firstName": "bhola sarkar",
+  "lastName": "Kulkarni ",
+  "gender": "male",
+  "age": 32,
+  "education": "phd",
+  "salary": 27000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f61f"
+  },
+  "user_id": 389,
+  "firstName": "balraj",
+  "lastName": "Kumar ",
+  "gender": "male",
+  "age": 33,
+  "education": "phd",
+  "salary": 28000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f620"
+  },
+  "user_id": 390,
+  "firstName": "ravindra kumar",
+  "lastName": "Kumer ",
+  "gender": "male",
+  "age": 34,
+  "education": "phd",
+  "salary": 29000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f621"
+  },
+  "user_id": 391,
+  "firstName": "rohit kumar",
+  "lastName": "Kunda ",
+  "gender": "male",
+  "age": 35,
+  "education": "phd",
+  "salary": 30000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f622"
+  },
+  "user_id": 392,
+  "firstName": "uttam kumar @ sanki",
+  "lastName": "Kurian ",
+  "gender": "male",
+  "age": 36,
+  "education": "phd",
+  "salary": 31000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f623"
+  },
+  "user_id": 393,
+  "firstName": "babalu sen",
+  "lastName": "Kuruvilla ",
+  "gender": "male",
+  "age": 37,
+  "education": "phd",
+  "salary": 32000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f624"
+  },
+  "user_id": 394,
+  "firstName": "rustam shah",
+  "lastName": "Lad ",
+  "gender": "male",
+  "age": 38,
+  "education": "phd",
+  "salary": 33000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f625"
+  },
+  "user_id": 395,
+  "firstName": "sukhdev",
+  "lastName": "Lad ",
+  "gender": "male",
+  "age": 39,
+  "education": "secondary",
+  "salary": 34000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f626"
+  },
+  "user_id": 396,
+  "firstName": "b vikjay kumar",
+  "lastName": "Lal ",
+  "gender": "male",
+  "age": 40,
+  "education": "secondary",
+  "salary": 35000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f627"
+  },
+  "user_id": 397,
+  "firstName": "gopal sharma",
+  "lastName": "Lala ",
+  "gender": "male",
+  "age": 41,
+  "education": "secondary",
+  "salary": 24000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f628"
+  },
+  "user_id": 398,
+  "firstName": "beeru",
+  "lastName": "Lall ",
+  "gender": "male",
+  "age": 42,
+  "education": "secondary",
+  "salary": 26000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f629"
+  },
+  "user_id": 399,
+  "firstName": "vipin",
+  "lastName": "Lalla ",
+  "gender": "male",
+  "age": 43,
+  "education": "higher secondary",
+  "salary": 27000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f62a"
+  },
+  "user_id": 400,
+  "firstName": "manish garg",
+  "lastName": "Lanka ",
+  "gender": "male",
+  "age": 32,
+  "education": "higher secondary",
+  "salary": 28000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "lusaka"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f62b"
+  },
+  "user_id": 401,
+  "firstName": "guddu",
+  "lastName": "Lata ",
+  "gender": "male",
+  "age": 33,
+  "education": "higher secondary",
+  "salary": 29000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "lusaka"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f62c"
+  },
+  "user_id": 402,
+  "firstName": "jatin @ sonu",
+  "lastName": "Loke ",
+  "gender": "male",
+  "age": 34,
+  "education": "higher secondary",
+  "salary": 30000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "lusaka"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f62d"
+  },
+  "user_id": 403,
+  "firstName": "amit kumar",
+  "lastName": "Loyal ",
+  "gender": "male",
+  "age": 35,
+  "education": "higher secondary",
+  "salary": 31000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "lusaka"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f62e"
+  },
+  "user_id": 404,
+  "firstName": "amit kumar",
+  "lastName": "Luthra ",
+  "gender": "male",
+  "age": 36,
+  "education": "higher secondary",
+  "salary": 25000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "lusaka"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f62f"
+  },
+  "user_id": 405,
+  "firstName": "shadab",
+  "lastName": "Madan ",
+  "gender": "male",
+  "age": 37,
+  "education": "higher secondary",
+  "salary": 26000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "lusaka"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f630"
+  },
+  "user_id": 406,
+  "firstName": "rakesh",
+  "lastName": "Madan ",
+  "gender": "male",
+  "age": 38,
+  "education": "higher secondary",
+  "salary": 27000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "lusaka"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f631"
+  },
+  "user_id": 407,
+  "firstName": "guddu",
+  "lastName": "Magar ",
+  "gender": "male",
+  "age": 39,
+  "education": "master",
+  "salary": 28000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f632"
+  },
+  "user_id": 408,
+  "firstName": "abhishek",
+  "lastName": "Mahajan ",
+  "gender": "male",
+  "age": 40,
+  "education": "master",
+  "salary": 29000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f633"
+  },
+  "user_id": 409,
+  "firstName": "gulfam",
+  "lastName": "Mahal ",
+  "gender": "male",
+  "age": 41,
+  "education": "master",
+  "salary": 30000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f634"
+  },
+  "user_id": 410,
+  "firstName": "phoolwati @ phoolo devi",
+  "lastName": "Maharaj ",
+  "gender": "male",
+  "age": 42,
+  "education": "master",
+  "salary": 31000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f635"
+  },
+  "user_id": 411,
+  "firstName": "mohit maan",
+  "lastName": "Majumdar ",
+  "gender": "male",
+  "age": 43,
+  "education": "master",
+  "salary": 32000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f636"
+  },
+  "user_id": 412,
+  "firstName": "veer bhan singh",
+  "lastName": "Malhotra ",
+  "gender": "male",
+  "age": 44,
+  "education": "master",
+  "salary": 33000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f637"
+  },
+  "user_id": 413,
+  "firstName": "dinesh kumar",
+  "lastName": "Mall ",
+  "gender": "male",
+  "age": 45,
+  "education": "master",
+  "salary": 34000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "mumbai"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f638"
+  },
+  "user_id": 414,
+  "firstName": "amarjeet",
+  "lastName": "Hegde ",
+  "gender": "male",
+  "age": 46,
+  "education": "master",
+  "salary": 35000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "mumbai"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f639"
+  },
+  "user_id": 415,
+  "firstName": "satyadev",
+  "lastName": "Hora ",
+  "gender": "male",
+  "age": 22,
+  "education": "graduate",
+  "salary": 36000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "mumbai"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f63a"
+  },
+  "user_id": 416,
+  "firstName": "mohd. mukhtaar",
+  "lastName": "Issac ",
+  "gender": "male",
+  "age": 23,
+  "education": "graduate",
+  "salary": 37000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "mumbai"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f63b"
+  },
+  "user_id": 417,
+  "firstName": "rishi",
+  "lastName": "Iyengar ",
+  "gender": "male",
+  "age": 24,
+  "education": "graduate",
+  "salary": 15000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "mumbai"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f63c"
+  },
+  "user_id": 418,
+  "firstName": "raja kumar",
+  "lastName": "Iyer ",
+  "gender": "male",
+  "age": 25,
+  "education": "graduate",
+  "salary": 16000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "ahmedabad"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f63d"
+  },
+  "user_id": 419,
+  "firstName": "sunil",
+  "lastName": "Jaggi ",
+  "gender": "male",
+  "age": 26,
+  "education": "graduate",
+  "salary": 17000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "ahmedabad"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f63e"
+  },
+  "user_id": 420,
+  "firstName": "ravi kumar",
+  "lastName": "Jain ",
+  "gender": "male",
+  "age": 27,
+  "education": "graduate",
+  "salary": 18000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "ahmedabad"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f63f"
+  },
+  "user_id": 421,
+  "firstName": "shankar kumar",
+  "lastName": "Jani ",
+  "gender": "male",
+  "age": 28,
+  "education": "graduate",
+  "salary": 19000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "ahmedabad"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f640"
+  },
+  "user_id": 422,
+  "firstName": "mahabir prasad",
+  "lastName": "Jayaraman ",
+  "gender": "male",
+  "age": 29,
+  "education": "graduate",
+  "salary": 20000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "ahmedabad"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f641"
+  },
+  "user_id": 423,
+  "firstName": "kartik @ kaku",
+  "lastName": "Jha ",
+  "gender": "male",
+  "age": 24,
+  "education": "graduate",
+  "salary": 21000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "ahmedabad"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f642"
+  },
+  "user_id": 424,
+  "firstName": "shubham yadav",
+  "lastName": "Jhaveri ",
+  "gender": "male",
+  "age": 25,
+  "education": "graduate",
+  "salary": 22000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "ahmedabad"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f643"
+  },
+  "user_id": 425,
+  "firstName": "yogesh",
+  "lastName": "Johal ",
+  "gender": "male",
+  "age": 26,
+  "education": "graduate",
+  "salary": 23000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "ahmedabad"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f644"
+  },
+  "user_id": 426,
+  "firstName": "madan",
+  "lastName": "Joshi ",
+  "gender": "male",
+  "age": 27,
+  "education": "graduate",
+  "salary": 24000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f645"
+  },
+  "user_id": 427,
+  "firstName": "rashid",
+  "lastName": "Kadakia ",
+  "gender": "male",
+  "age": 28,
+  "education": "graduate",
+  "salary": 26000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f646"
+  },
+  "user_id": 428,
+  "firstName": "jitender",
+  "lastName": "Kade ",
+  "gender": "male",
+  "age": 29,
+  "education": "graduate",
+  "salary": 27000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f647"
+  },
+  "user_id": 429,
+  "firstName": "pawan kumar",
+  "lastName": "Kakar ",
+  "gender": "male",
+  "age": 30,
+  "education": "graduate",
+  "salary": 28000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f648"
+  },
+  "user_id": 430,
+  "firstName": "vivek",
+  "lastName": "Mahal ",
+  "gender": "male",
+  "age": 31,
+  "education": "graduate",
+  "salary": 75000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f649"
+  },
+  "user_id": 431,
+  "firstName": "pintu kumar",
+  "lastName": "Maharaj ",
+  "gender": "male",
+  "age": 32,
+  "education": "master",
+  "salary": 75000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f64a"
+  },
+  "user_id": 432,
+  "firstName": "deep",
+  "lastName": "Majumdar ",
+  "gender": "male",
+  "age": 33,
+  "education": "master",
+  "salary": 75000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f64b"
+  },
+  "user_id": 433,
+  "firstName": "dharmbir",
+  "lastName": "Malhotra ",
+  "gender": "male",
+  "age": 50,
+  "education": "master",
+  "salary": 75000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f64c"
+  },
+  "user_id": 434,
+  "firstName": "rishi kakdia",
+  "lastName": "Mall ",
+  "gender": "male",
+  "age": 51,
+  "education": "master",
+  "salary": 75000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f64d"
+  },
+  "user_id": 435,
+  "firstName": "kunal @ kannu",
+  "lastName": "Hegde ",
+  "gender": "male",
+  "age": 52,
+  "education": "master",
+  "salary": 75000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f64e"
+  },
+  "user_id": 436,
+  "firstName": "arman ansari",
+  "lastName": "Hora ",
+  "gender": "male",
+  "age": 53,
+  "education": "master",
+  "salary": 75000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f64f"
+  },
+  "user_id": 437,
+  "firstName": "avinsh",
+  "lastName": "Issac ",
+  "gender": "male",
+  "age": 54,
+  "education": "master",
+  "salary": 75000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f650"
+  },
+  "user_id": 438,
+  "firstName": "karan",
+  "lastName": "Iyengar ",
+  "gender": "male",
+  "age": 55,
+  "education": "master",
+  "salary": 77000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f651"
+  },
+  "user_id": 439,
+  "firstName": "sandeep kumar",
+  "lastName": "Iyer ",
+  "gender": "male",
+  "age": 56,
+  "education": "primary",
+  "salary": 77000,
+  "maritalstatus": "unmarried",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f652"
+  },
+  "user_id": 440,
+  "firstName": "sagar",
+  "lastName": "Jaggi ",
+  "gender": "male",
+  "age": 57,
+  "education": "phd",
+  "salary": 77000,
+  "maritalstatus": "unmarried",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f653"
+  },
+  "user_id": 441,
+  "firstName": "nikhil",
+  "lastName": "Jain ",
+  "gender": "male",
+  "age": 58,
+  "education": "phd",
+  "salary": 77000,
+  "maritalstatus": "unmarried",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f654"
+  },
+  "user_id": 442,
+  "firstName": "nitin",
+  "lastName": "Jani ",
+  "gender": "male",
+  "age": 59,
+  "education": "phd",
+  "salary": 77000,
+  "maritalstatus": "unmarried",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f655"
+  },
+  "user_id": 443,
+  "firstName": "doodhnath pandit",
+  "lastName": "Jayaraman ",
+  "gender": "male",
+  "age": 60,
+  "education": "phd",
+  "salary": 77000,
+  "maritalstatus": "unmarried",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f656"
+  },
+  "user_id": 444,
+  "firstName": "aslam allam",
+  "lastName": "Jha ",
+  "gender": "male",
+  "age": 61,
+  "education": "phd",
+  "salary": 77000,
+  "maritalstatus": "unmarried",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f657"
+  },
+  "user_id": 445,
+  "firstName": "rahul",
+  "lastName": "Jhaveri ",
+  "gender": "male",
+  "age": 62,
+  "education": "phd",
+  "salary": 77000,
+  "maritalstatus": "unmarried",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f658"
+  },
+  "user_id": 446,
+  "firstName": "jitender kumar",
+  "lastName": "Johal ",
+  "gender": "male",
+  "age": 63,
+  "education": "phd",
+  "salary": 77000,
+  "maritalstatus": "unmarried",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f659"
+  },
+  "user_id": 447,
+  "firstName": "raja kumar",
+  "lastName": "Joshi ",
+  "gender": "male",
+  "age": 64,
+  "education": "phd",
+  "salary": 77000,
+  "maritalstatus": "unmarried",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f65a"
+  },
+  "user_id": 448,
+  "firstName": "sunil",
+  "lastName": "Kadakia ",
+  "gender": "male",
+  "age": 19,
+  "education": "phd",
+  "salary": 77000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f65b"
+  },
+  "user_id": 449,
+  "firstName": "ravi kumar",
+  "lastName": "Kade ",
+  "gender": "male",
+  "age": 20,
+  "education": "phd",
+  "salary": 77000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f65c"
+  },
+  "user_id": 450,
+  "firstName": "shankar kumar",
+  "lastName": "Kakar ",
+  "gender": "male",
+  "age": 21,
+  "education": "phd",
+  "salary": 77000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f65d"
+  },
+  "user_id": 451,
+  "firstName": "mahabir prasad",
+  "lastName": "Mahal ",
+  "gender": "male",
+  "age": 22,
+  "education": "phd",
+  "salary": 77000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f65e"
+  },
+  "user_id": 452,
+  "firstName": "kartik @ kaku",
+  "lastName": "Maharaj ",
+  "gender": "male",
+  "age": 23,
+  "education": "phd",
+  "salary": 77000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f65f"
+  },
+  "user_id": 453,
+  "firstName": "shubham yadav",
+  "lastName": "Majumdar ",
+  "gender": "male",
+  "age": 24,
+  "education": "phd",
+  "salary": 77000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f660"
+  },
+  "user_id": 454,
+  "firstName": "yogesh",
+  "lastName": "Malhotra ",
+  "gender": "male",
+  "age": 25,
+  "education": "phd",
+  "salary": 77000,
+  "maritalstatus": "married",
+  "country": "australiya",
+  "city": "sydney"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f661"
+  },
+  "user_id": 455,
+  "firstName": "madan",
+  "lastName": "Mall ",
+  "gender": "male",
+  "age": 26,
+  "education": "phd",
+  "salary": 24000,
+  "maritalstatus": "married",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f662"
+  },
+  "user_id": 456,
+  "firstName": "rashid",
+  "lastName": "Hegde ",
+  "gender": "male",
+  "age": 27,
+  "education": "phd",
+  "salary": 26000,
+  "maritalstatus": "married",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f663"
+  },
+  "user_id": 457,
+  "firstName": "jitender",
+  "lastName": "Hora ",
+  "gender": "male",
+  "age": 28,
+  "education": "phd",
+  "salary": 27000,
+  "maritalstatus": "married",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f664"
+  },
+  "user_id": 458,
+  "firstName": "pawan kumar",
+  "lastName": "Issac ",
+  "gender": "male",
+  "age": 29,
+  "education": "phd",
+  "salary": 28000,
+  "maritalstatus": "married",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f665"
+  },
+  "user_id": 459,
+  "firstName": "vivek",
+  "lastName": "Iyengar ",
+  "gender": "male",
+  "age": 30,
+  "education": "phd",
+  "salary": 29000,
+  "maritalstatus": "married",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f666"
+  },
+  "user_id": 460,
+  "firstName": "pintu kumar",
+  "lastName": "Iyer ",
+  "gender": "male",
+  "age": 31,
+  "education": "phd",
+  "salary": 30000,
+  "maritalstatus": "married",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f667"
+  },
+  "user_id": 461,
+  "firstName": "deep",
+  "lastName": "Jaggi ",
+  "gender": "male",
+  "age": 32,
+  "education": "phd",
+  "salary": 31000,
+  "maritalstatus": "married",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f668"
+  },
+  "user_id": 462,
+  "firstName": "dharmbir",
+  "lastName": "Jain ",
+  "gender": "male",
+  "age": 33,
+  "education": "phd",
+  "salary": 25000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f669"
+  },
+  "user_id": 463,
+  "firstName": "rishi kakdia",
+  "lastName": "Jani ",
+  "gender": "male",
+  "age": 34,
+  "education": "phd",
+  "salary": 26000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f66a"
+  },
+  "user_id": 464,
+  "firstName": "kunal @ kannu",
+  "lastName": "Jayaraman ",
+  "gender": "male",
+  "age": 35,
+  "education": "phd",
+  "salary": 27000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f66b"
+  },
+  "user_id": 465,
+  "firstName": "arman ansari",
+  "lastName": "Jha ",
+  "gender": "male",
+  "age": 36,
+  "education": "phd",
+  "salary": 28000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f66c"
+  },
+  "user_id": 466,
+  "firstName": "avinsh",
+  "lastName": "Jhaveri ",
+  "gender": "male",
+  "age": 44,
+  "education": "primary",
+  "salary": 29000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f66d"
+  },
+  "user_id": 467,
+  "firstName": "karan",
+  "lastName": "Johal ",
+  "gender": "male",
+  "age": 45,
+  "education": "primary",
+  "salary": 30000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f66e"
+  },
+  "user_id": 468,
+  "firstName": "sandeep kumar",
+  "lastName": "Joshi ",
+  "gender": "male",
+  "age": 46,
+  "education": "primary",
+  "salary": 31000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "new york"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f66f"
+  },
+  "user_id": 469,
+  "firstName": "sagar",
+  "lastName": "Kadakia ",
+  "gender": "male",
+  "age": 47,
+  "education": "primary",
+  "salary": 32000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f670"
+  },
+  "user_id": 470,
+  "firstName": "nikhil",
+  "lastName": "Kade ",
+  "gender": "male",
+  "age": 48,
+  "education": "primary",
+  "salary": 33000,
+  "maritalstatus": "married",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f671"
+  },
+  "user_id": 471,
+  "firstName": "nitin",
+  "lastName": "Kakar ",
+  "gender": "male",
+  "age": 49,
+  "education": "primary",
+  "salary": 34000,
+  "maritalstatus": "married",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f672"
+  },
+  "user_id": 472,
+  "firstName": "doodhnath pandit",
+  "lastName": "Kant ",
+  "gender": "male",
+  "age": 50,
+  "education": "primary",
+  "salary": 35000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "banglore"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f673"
+  },
+  "user_id": 473,
+  "firstName": "aslam allam",
+  "lastName": "Kapadia ",
+  "gender": "male",
+  "age": 51,
+  "education": "primary",
+  "salary": 36000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "banglore"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f674"
+  },
+  "user_id": 474,
+  "firstName": "rahul",
+  "lastName": "Kapoor ",
+  "gender": "male",
+  "age": 52,
+  "education": "primary",
+  "salary": 37000,
+  "maritalstatus": "unmarried",
+  "country": "india",
+  "city": "banglore"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f675"
+  },
+  "user_id": 475,
+  "firstName": "jitender kumar",
+  "lastName": "Kapur ",
+  "gender": "male",
+  "age": 53,
+  "education": "primary",
+  "salary": 15000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "banglore"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f676"
+  },
+  "user_id": 476,
+  "firstName": "rohit ",
+  "lastName": "Kar ",
+  "gender": "male",
+  "age": 45,
+  "education": "primary",
+  "salary": 16000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "banglore"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f677"
+  },
+  "user_id": 477,
+  "firstName": "rohit ",
+  "lastName": "Kara ",
+  "gender": "male",
+  "age": 45,
+  "education": "primary",
+  "salary": 17000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "banglore"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f678"
+  },
+  "user_id": 478,
+  "firstName": "rohit ",
+  "lastName": "Karan ",
+  "gender": "male",
+  "age": 46,
+  "education": "primary",
+  "salary": 18000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "banglore"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f679"
+  },
+  "user_id": 479,
+  "firstName": "sparsh ",
+  "lastName": "Kari ",
+  "gender": "male",
+  "age": 47,
+  "education": "primary",
+  "salary": 19000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "banglore"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f67a"
+  },
+  "user_id": 480,
+  "firstName": "sparsh ",
+  "lastName": "Karnik ",
+  "gender": "male",
+  "age": 48,
+  "education": "primary",
+  "salary": 20000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "banglore"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f67b"
+  },
+  "user_id": 481,
+  "firstName": "santosh ",
+  "lastName": "Karpe ",
+  "gender": "male",
+  "age": 49,
+  "education": "phd",
+  "salary": 21000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "banglore"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f67c"
+  },
+  "user_id": 482,
+  "firstName": "santosh ",
+  "lastName": "Kashyap ",
+  "gender": "male",
+  "age": 45,
+  "education": "phd",
+  "salary": 22000,
+  "maritalstatus": "married",
+  "country": "india",
+  "city": "banglore"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f67d"
+  },
+  "user_id": 483,
+  "firstName": "santosh ",
+  "lastName": "Kata ",
+  "gender": "male",
+  "age": 45,
+  "education": "phd",
+  "salary": 23000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f67e"
+  },
+  "user_id": 484,
+  "firstName": "santosh ",
+  "lastName": "Kaul ",
+  "gender": "male",
+  "age": 45,
+  "education": "phd",
+  "salary": 24000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f67f"
+  },
+  "user_id": 485,
+  "firstName": "punit khandelwal ",
+  "lastName": "Kaur ",
+  "gender": "male",
+  "age": 27,
+  "education": "phd",
+  "salary": 26000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f680"
+  },
+  "user_id": 486,
+  "firstName": "punit khandelwal ",
+  "lastName": "Keer ",
+  "gender": "male",
+  "age": 28,
+  "education": "phd",
+  "salary": 27000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f681"
+  },
+  "user_id": 487,
+  "firstName": "dinesh ",
+  "lastName": "Keer ",
+  "gender": "male",
+  "age": 29,
+  "education": "phd",
+  "salary": 28000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f682"
+  },
+  "user_id": 488,
+  "firstName": "dinesh ",
+  "lastName": "Kalita ",
+  "gender": "male",
+  "age": 30,
+  "education": "phd",
+  "salary": 29000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f683"
+  },
+  "user_id": 489,
+  "firstName": "gulshan ",
+  "lastName": "Kalla ",
+  "gender": "male",
+  "age": 31,
+  "education": "phd",
+  "salary": 30000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f684"
+  },
+  "user_id": 490,
+  "firstName": "gulshan ",
+  "lastName": "Kamdar ",
+  "gender": "male",
+  "age": 32,
+  "education": "phd",
+  "salary": 31000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f685"
+  },
+  "user_id": 491,
+  "firstName": "arvind kumar yadav ",
+  "lastName": "Kanda ",
+  "gender": "male",
+  "age": 33,
+  "education": "phd",
+  "salary": 25000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f686"
+  },
+  "user_id": 492,
+  "firstName": "arvind kumar yadav ",
+  "lastName": "Kannan ",
+  "gender": "male",
+  "age": 34,
+  "education": "phd",
+  "salary": 26000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f687"
+  },
+  "user_id": 493,
+  "firstName": "nausad ",
+  "lastName": "Kant ",
+  "gender": "male",
+  "age": 35,
+  "education": "phd",
+  "salary": 27000,
+  "maritalstatus": "married",
+  "country": "united kingdom",
+  "city": "london"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f688"
+  },
+  "user_id": 494,
+  "firstName": "nausad ",
+  "lastName": "Kapadia ",
+  "gender": "male",
+  "age": 36,
+  "education": "phd",
+  "salary": 28000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f689"
+  },
+  "user_id": 495,
+  "firstName": "gurmit singh ",
+  "lastName": "Kohli ",
+  "gender": "male",
+  "age": 37,
+  "education": "phd",
+  "salary": 29000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f68a"
+  },
+  "user_id": 496,
+  "firstName": "gurmit singh ",
+  "lastName": " ",
+  "gender": "male",
+  "age": 38,
+  "education": "phd",
+  "salary": 30000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f68b"
+  },
+  "user_id": 497,
+  "firstName": "md. afsar ",
+  "lastName": "Konda ",
+  "gender": "male",
+  "age": 39,
+  "education": "secondary",
+  "salary": 31000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f68c"
+  },
+  "user_id": 498,
+  "firstName": "md. afsar ",
+  "lastName": "Korpal ",
+  "gender": "male",
+  "age": 40,
+  "education": "secondary",
+  "salary": 32000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f68d"
+  },
+  "user_id": 499,
+  "firstName": "shiv shakti singh ",
+  "lastName": "Koshy ",
+  "gender": "male",
+  "age": 41,
+  "education": "secondary",
+  "salary": 33000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "kinshasa"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f691"
+  },
+  "user_id": 503,
+  "firstName": "kausal kumar ",
+  "lastName": "Krishna ",
+  "gender": "male",
+  "age": 33,
+  "education": "higher secondary",
+  "salary": 37000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "lusaka"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f692"
+  },
+  "user_id": 504,
+  "firstName": "kausal kumar ",
+  "lastName": "Krishnamurthy ",
+  "gender": "male",
+  "age": 34,
+  "education": "higher secondary",
+  "salary": 15000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "lusaka"
+},{
+  "_id": {
+    "$oid": "60db3b7c7e01942eee89f693"
+  },
+  "user_id": 505,
+  "firstName": "rohit ",
+  "lastName": "Krishnan ",
+  "gender": "male",
+  "age": 35,
+  "education": "higher secondary",
+  "salary": 16000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "lusaka"
+},{
+  "_id": {
+    "$oid": "60de96fbb9738f1318ff61a4"
+  },
+  "user_id": 506,
+  "firstName": "parmar ",
+  "lastName": "Kunj",
+  "gender": "male",
+  "age": 36,
+  "education": "higher secondary",
+  "salary": 59000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "lusaka"
+},{
+  "_id": {
+    "$oid": "60de992d1eb4acef38a70b85"
+  },
+  "user_id": 507,
+  "firstName": "parmar ",
+  "lastName": "Kunj",
+  "gender": "male",
+  "age": 36,
+  "education": "higher secondary",
+  "salary": 59000,
+  "maritalstatus": "unmarried",
+  "country": "africa",
+  "city": "lusaka"
+}]
